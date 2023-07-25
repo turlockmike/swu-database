@@ -129,7 +129,7 @@
   Front Text: >-
     Action [1{G}, T]: Give a shield token to a {heroism} unit you played this
     phase. Epic Action: If you control 6 or more resources, deploy this leader.
-    (Flip him, ready him, and move him to the ground arena. 
+    (Flip him, ready him, and move him to the ground arena.
   DoubleSided: true
   Back Text: 'On Attack: You may give another unit a Shield Token'
   Artist: Borja Pindado
@@ -275,7 +275,7 @@
     Action [1{G}, T]: If you played a {villainy} card this phase, deal 1 damage
     to a unit and 1 damage to a base. Epic Action: If you control 7 or more
     resources, deploy this leader. (Flip him, ready him, and move him to the
-    ground arena. 
+    ground arena.
   DoubleSided: true
   Back Text: 'On Attack: You may deal 2 damage to a unit. '
   Artist: Borja Pindado
@@ -3695,7 +3695,7 @@
   Trait3: Lightsaber
   Front Text: >-
     Attach to a non-Vehicle unit. When Played: If attached unit is Darth Vader,
-    you may deal 4 damage to a ground unit. 
+    you may deal 4 damage to a ground unit.
   DoubleSided: null
   Back Text: null
   Artist: Arthur Mougne
@@ -6138,30 +6138,32 @@
   Status: null
 - Set: SOR
   '#': '227'
-  Card Name: null
+  Card Name: Snowtrooper Lieutenant
   Title: null
-  Type: null
-  Rarity: null
-  Arena: null
-  Unique: null
-  Cost: null
-  Aspect1: null
+  Type: Unit
+  Rarity: C
+  Arena: Ground
+  Unique: false
+  Cost: 2
+  Aspect1: Villainy
   Aspect2: null
-  Power: null
-  HP: null
-  Trait1: null
-  Trait2: null
+  Power: 2
+  HP: 2
+  Trait1: Imperial
+  Trait2: Trooper
   Trait3: null
-  Front Text: null
-  DoubleSided: null
+  Front Text: >-
+    When Played: You may attack with a unit. If it's an imperial unit, it gets
+    +2/+0 for this attack.
+  DoubleSided: false
   Back Text: null
-  Artist: null
-  Image Url Front: null
+  Artist: Erik Ly
+  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/227.png
   Epic Action Text: null
-  Image Url back: null
+  Image Url back: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg
   Front Landscape: null
   Back Landscape: null
-  Spoiler Source Url: null
+  Spoiler Source Url: https://youtu.be/SW65sZFFjC8?t=204
   Status: null
 - Set: SOR
   '#': '228'
@@ -6675,8 +6677,7 @@
   Trait3: null
   Front Text: >-
     Look at the top card of your deck. You may play it. It costs {5:gold} less.
-    If your base has [5] or less remaining HP, you may play it for free
-    instead. 
+    If your base has [5] or less remaining HP, you may play it for free instead.
   DoubleSided: false
   Back Text: null
   Artist: Gretel Lusky

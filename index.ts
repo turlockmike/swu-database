@@ -12,7 +12,7 @@ program
     try {
       await convertFile(inputFile);
     } catch (err) {
-      console.log('Error:', err.message);
+      console.log('Error:', err);
       process.exit(1);
     }
   });
