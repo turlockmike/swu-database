@@ -16,8 +16,9 @@
       "noUnusedLocals": true,
       "noUnusedParameters": true,
       "noImplicitReturns": true,
-      "noFallthroughCasesInSwitch": true
+      "noFallthroughCasesInSwitch": true,
+      "resolveJsonModule": true,
   },
-  "include": ["src/**/*.ts", "index.ts"],
+  "include": ["src/**/*.ts", "scripts/**/*.ts", "index.ts"],
   "exclude": ["node_modules"]
 }
