@@ -1,6 +1,6 @@
 {
   "name": "swu-database",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Star Wars: Unlimited Database",
   "main": "dist/index.js",
   "dependencies": {},
@@ -8,8 +8,8 @@
     "build": "esbuild index.ts --bundle --platform=node --target=node18 --outfile=dist/index.js",
     "convert": "ts-node scripts/convert.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "build",
-    "prepublish": "build"
+    "prepare": "npm run build",
+    "prepublish": "npm run build"
   },
   "keywords": [],
   "author": "",
