@@ -6161,34 +6161,6 @@
 <220>
     <Set>SOR</Set>
     <#>221</#>
-    <Card Name>Waylay</Card Name>
-    <Title/>
-    <Type>Event</Type>
-    <Rarity>C</Rarity>
-    <Arena/>
-    <Unique/>
-    <Cost>3</Cost>
-    <Aspect1>Cunning</Aspect1>
-    <Aspect2/>
-    <Power/>
-    <HP/>
-    <Trait1>Trick</Trait1>
-    <Trait2/>
-    <Trait3/>
-    <Front Text>Return a non-leader unit to its owner's hand.</Front Text>
-    <DoubleSided/>
-    <Back Text/>
-    <Artist>Amelie Hutt</Artist>
-    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/221.png</Image Url Front>
-    <Epic Action Text/>
-    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
-    <Front Landscape/>
-    <Back Landscape/>
-    <Spoiler Source Url>https://starwarsunlimited.com/articles/a-taste-of-unlimited-possibilities</Spoiler Source Url>
-</220>
-<221>
-    <Set>SOR</Set>
-    <#>222</#>
     <Card Name/>
     <Title/>
     <Type/>
@@ -6213,6 +6185,34 @@
     <Front Landscape/>
     <Back Landscape/>
     <Spoiler Source Url/>
+</220>
+<221>
+    <Set>SOR</Set>
+    <#>222</#>
+    <Card Name>Waylay</Card Name>
+    <Title/>
+    <Type>Event</Type>
+    <Rarity>C</Rarity>
+    <Arena/>
+    <Unique/>
+    <Cost>3</Cost>
+    <Aspect1>Cunning</Aspect1>
+    <Aspect2/>
+    <Power/>
+    <HP/>
+    <Trait1>Trick</Trait1>
+    <Trait2/>
+    <Trait3/>
+    <Front Text>Return a non-leader unit to its owner's hand.</Front Text>
+    <DoubleSided/>
+    <Back Text/>
+    <Artist>Amelie Hutt</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/222.png</Image Url Front>
+    <Epic Action Text/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
+    <Front Landscape/>
+    <Back Landscape/>
+    <Spoiler Source Url>https://starwarsunlimited.com/articles/a-taste-of-unlimited-possibilities</Spoiler Source Url>
 </221>
 <222>
     <Set>SOR</Set>
