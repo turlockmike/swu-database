@@ -3387,30 +3387,32 @@
   Spoiler Source Url: null
 - Set: SOR
   '#': '130'
-  Card Name: null
+  Card Name: First Legion Snowtrooper
   Title: null
-  Type: null
-  Rarity: null
-  Arena: null
+  Type: Unit
+  Rarity: C
+  Arena: Ground
   Unique: null
-  Cost: null
-  Aspect1: null
-  Aspect2: null
-  Power: null
-  HP: null
-  Trait1: null
-  Trait2: null
+  Cost: 2
+  Aspect1: Aggression
+  Aspect2: Villiany
+  Power: 2
+  HP: 3
+  Trait1: Imperial
+  Trait2: Trooper
   Trait3: null
-  Front Text: null
+  Front Text: >-
+    While attacking a damaged unit, this unit gains +2/+0 and gains Overwhelm.
+    (Deal excess damage to the opponent's base.)
   DoubleSided: null
   Back Text: null
-  Artist: null
-  Image Url Front: null
+  Artist: Milos Slackovic
+  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/130.png
   Epic Action Text: null
-  Image Url back: null
+  Image Url back: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg
   Front Landscape: null
   Back Landscape: null
-  Spoiler Source Url: null
+  Spoiler Source Url: https://starwarsunlimited.com/articles/a-taste-of-unlimited-possibilities
 - Set: SOR
   '#': '131'
   Card Name: null
@@ -5758,30 +5760,30 @@
   Spoiler Source Url: https://youtu.be/LiF62cBi_pk?t=24
 - Set: SOR
   '#': '221'
-  Card Name: null
+  Card Name: Waylay
   Title: null
-  Type: null
-  Rarity: null
+  Type: Event
+  Rarity: C
   Arena: null
   Unique: null
-  Cost: null
-  Aspect1: null
+  Cost: 3
+  Aspect1: Cunning
   Aspect2: null
   Power: null
   HP: null
-  Trait1: null
+  Trait1: Trick
   Trait2: null
   Trait3: null
-  Front Text: null
+  Front Text: Return a non-leader unit to its owner's hand.
   DoubleSided: null
   Back Text: null
-  Artist: null
-  Image Url Front: null
+  Artist: Amelie Hutt
+  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/221.png
   Epic Action Text: null
-  Image Url back: null
+  Image Url back: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg
   Front Landscape: null
   Back Landscape: null
-  Spoiler Source Url: null
+  Spoiler Source Url: https://starwarsunlimited.com/articles/a-taste-of-unlimited-possibilities
 - Set: SOR
   '#': '222'
   Card Name: null

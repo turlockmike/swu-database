@@ -3613,30 +3613,30 @@
 <129>
     <Set>SOR</Set>
     <#>130</#>
-    <Card Name/>
+    <Card Name>First Legion Snowtrooper</Card Name>
     <Title/>
-    <Type/>
-    <Rarity/>
-    <Arena/>
+    <Type>Unit</Type>
+    <Rarity>C</Rarity>
+    <Arena>Ground</Arena>
     <Unique/>
-    <Cost/>
-    <Aspect1/>
-    <Aspect2/>
-    <Power/>
-    <HP/>
-    <Trait1/>
-    <Trait2/>
+    <Cost>2</Cost>
+    <Aspect1>Aggression</Aspect1>
+    <Aspect2>Villiany</Aspect2>
+    <Power>2</Power>
+    <HP>3</HP>
+    <Trait1>Imperial</Trait1>
+    <Trait2>Trooper</Trait2>
     <Trait3/>
-    <Front Text/>
+    <Front Text>While attacking a damaged unit, this unit gains +2/+0 and gains Overwhelm. (Deal excess damage to the opponent's base.)</Front Text>
     <DoubleSided/>
     <Back Text/>
-    <Artist/>
-    <Image Url Front/>
+    <Artist>Milos Slackovic</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/130.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>
     <Back Landscape/>
-    <Spoiler Source Url/>
+    <Spoiler Source Url>https://starwarsunlimited.com/articles/a-taste-of-unlimited-possibilities</Spoiler Source Url>
 </129>
 <130>
     <Set>SOR</Set>
@@ -6161,30 +6161,30 @@
 <220>
     <Set>SOR</Set>
     <#>221</#>
-    <Card Name/>
+    <Card Name>Waylay</Card Name>
     <Title/>
-    <Type/>
-    <Rarity/>
+    <Type>Event</Type>
+    <Rarity>C</Rarity>
     <Arena/>
     <Unique/>
-    <Cost/>
-    <Aspect1/>
+    <Cost>3</Cost>
+    <Aspect1>Cunning</Aspect1>
     <Aspect2/>
     <Power/>
     <HP/>
-    <Trait1/>
+    <Trait1>Trick</Trait1>
     <Trait2/>
     <Trait3/>
-    <Front Text/>
+    <Front Text>Return a non-leader unit to its owner's hand.</Front Text>
     <DoubleSided/>
     <Back Text/>
-    <Artist/>
-    <Image Url Front/>
+    <Artist>Amelie Hutt</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/221.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>
     <Back Landscape/>
-    <Spoiler Source Url/>
+    <Spoiler Source Url>https://starwarsunlimited.com/articles/a-taste-of-unlimited-possibilities</Spoiler Source Url>
 </220>
 <221>
     <Set>SOR</Set>
