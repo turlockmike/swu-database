@@ -3621,7 +3621,7 @@
     <Unique/>
     <Cost>2</Cost>
     <Aspect1>Aggression</Aspect1>
-    <Aspect2>Villiany</Aspect2>
+    <Aspect2>Villainy</Aspect2>
     <Power>2</Power>
     <HP>3</HP>
     <Trait1>Imperial</Trait1>
@@ -3873,7 +3873,7 @@
     <Unique/>
     <Cost>2</Cost>
     <Aspect1>Aggression</Aspect1>
-    <Aspect2>Villiany</Aspect2>
+    <Aspect2>Villainy</Aspect2>
     <Power/>
     <HP/>
     <Trait1>Force</Trait1>
@@ -6308,7 +6308,7 @@
     <Arena>Ground</Arena>
     <Unique>true</Unique>
     <Cost>2</Cost>
-    <Aspect1>Villiany</Aspect1>
+    <Aspect1>Villainy</Aspect1>
     <Aspect2/>
     <Power>1</Power>
     <HP>1</HP>

@@ -3395,7 +3395,7 @@
   Unique: null
   Cost: 2
   Aspect1: Aggression
-  Aspect2: Villiany
+  Aspect2: Villainy
   Power: 2
   HP: 3
   Trait1: Imperial
@@ -3634,7 +3634,7 @@
   Unique: null
   Cost: 2
   Aspect1: Aggression
-  Aspect2: Villiany
+  Aspect2: Villainy
   Power: null
   HP: null
   Trait1: Force
@@ -5897,7 +5897,7 @@
   Arena: Ground
   Unique: true
   Cost: 2
-  Aspect1: Villiany
+  Aspect1: Villainy
   Aspect2: null
   Power: 1
   HP: 1
