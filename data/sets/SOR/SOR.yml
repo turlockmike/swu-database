@@ -3395,7 +3395,7 @@
   Unique: null
   Cost: 2
   Aspect1: Aggression
-  Aspect2: Villiany
+  Aspect2: Villainy
   Power: 2
   HP: 3
   Trait1: Imperial
@@ -3634,7 +3634,7 @@
   Unique: null
   Cost: 2
   Aspect1: Aggression
-  Aspect2: Villiany
+  Aspect2: Villainy
   Power: null
   HP: null
   Trait1: Force
@@ -5760,32 +5760,6 @@
   Spoiler Source Url: https://youtu.be/LiF62cBi_pk?t=24
 - Set: SOR
   '#': '221'
-  Card Name: Waylay
-  Title: null
-  Type: Event
-  Rarity: C
-  Arena: null
-  Unique: null
-  Cost: 3
-  Aspect1: Cunning
-  Aspect2: null
-  Power: null
-  HP: null
-  Trait1: Trick
-  Trait2: null
-  Trait3: null
-  Front Text: Return a non-leader unit to its owner's hand.
-  DoubleSided: null
-  Back Text: null
-  Artist: Amelie Hutt
-  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/221.png
-  Epic Action Text: null
-  Image Url back: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg
-  Front Landscape: null
-  Back Landscape: null
-  Spoiler Source Url: https://starwarsunlimited.com/articles/a-taste-of-unlimited-possibilities
-- Set: SOR
-  '#': '222'
   Card Name: null
   Title: null
   Type: null
@@ -5810,6 +5784,32 @@
   Front Landscape: null
   Back Landscape: null
   Spoiler Source Url: null
+- Set: SOR
+  '#': '222'
+  Card Name: Waylay
+  Title: null
+  Type: Event
+  Rarity: C
+  Arena: null
+  Unique: null
+  Cost: 3
+  Aspect1: Cunning
+  Aspect2: null
+  Power: null
+  HP: null
+  Trait1: Trick
+  Trait2: null
+  Trait3: null
+  Front Text: Return a non-leader unit to its owner's hand.
+  DoubleSided: null
+  Back Text: null
+  Artist: Amelie Hutt
+  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/222.png
+  Epic Action Text: null
+  Image Url back: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg
+  Front Landscape: null
+  Back Landscape: null
+  Spoiler Source Url: https://starwarsunlimited.com/articles/a-taste-of-unlimited-possibilities
 - Set: SOR
   '#': '223'
   Card Name: null
@@ -5897,7 +5897,7 @@
   Arena: Ground
   Unique: true
   Cost: 2
-  Aspect1: Villiany
+  Aspect1: Villainy
   Aspect2: null
   Power: 1
   HP: 1
