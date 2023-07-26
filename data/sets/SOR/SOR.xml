@@ -3865,30 +3865,30 @@
 <138>
     <Set>SOR</Set>
     <#>139</#>
-    <Card Name/>
+    <Card Name>Force Choke</Card Name>
     <Title/>
-    <Type/>
-    <Rarity/>
+    <Type>Event</Type>
+    <Rarity>U</Rarity>
     <Arena/>
     <Unique/>
-    <Cost/>
-    <Aspect1/>
-    <Aspect2/>
+    <Cost>2</Cost>
+    <Aspect1>Aggression</Aspect1>
+    <Aspect2>Villiany</Aspect2>
     <Power/>
     <HP/>
-    <Trait1/>
+    <Trait1>Force</Trait1>
     <Trait2/>
     <Trait3/>
-    <Front Text/>
+    <Front Text>If you control a FORCE unit, this event costs [1R] less to play.  Deal 5 damage to a non-VEHICLE unit.  That unit's controller draws a card.</Front Text>
     <DoubleSided/>
     <Back Text/>
-    <Artist/>
-    <Image Url Front/>
+    <Artist>Stefano Landini</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/139.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>
     <Back Landscape/>
-    <Spoiler Source Url/>
+    <Spoiler Source Url>https://www.youtube.com/watch?v=Msezhwc2WE4</Spoiler Source Url>
 </138>
 <139>
     <Set>SOR</Set>
@@ -6301,30 +6301,30 @@
 <225>
     <Set>SOR</Set>
     <#>226</#>
-    <Card Name/>
-    <Title/>
-    <Type/>
-    <Rarity/>
-    <Arena/>
-    <Unique/>
-    <Cost/>
-    <Aspect1/>
+    <Card Name>Admiral Motti</Card Name>
+    <Title>Brazen and Scornful</Title>
+    <Type>Unit</Type>
+    <Rarity>S</Rarity>
+    <Arena>Ground</Arena>
+    <Unique>true</Unique>
+    <Cost>2</Cost>
+    <Aspect1>Villiany</Aspect1>
     <Aspect2/>
-    <Power/>
-    <HP/>
-    <Trait1/>
-    <Trait2/>
+    <Power>1</Power>
+    <HP>1</HP>
+    <Trait1>Imperial</Trait1>
+    <Trait2>Official</Trait2>
     <Trait3/>
-    <Front Text/>
+    <Front Text>When Defeated: You may ready a [Vil] unit.</Front Text>
     <DoubleSided/>
     <Back Text/>
-    <Artist/>
-    <Image Url Front/>
+    <Artist>Tomas Oleksak</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/226.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>
     <Back Landscape/>
-    <Spoiler Source Url/>
+    <Spoiler Source Url>https://www.youtube.com/watch?v=Msezhwc2WE4</Spoiler Source Url>
 </225>
 <226>
     <Set>SOR</Set>
@@ -6581,30 +6581,30 @@
 <235>
     <Set>SOR</Set>
     <#>236</#>
-    <Card Name/>
-    <Title/>
-    <Type/>
-    <Rarity/>
-    <Arena/>
-    <Unique/>
-    <Cost/>
-    <Aspect1/>
+    <Card Name>R2-D2</Card Name>
+    <Title>Ignoring Protocol</Title>
+    <Type>Unit</Type>
+    <Rarity>S</Rarity>
+    <Arena>Ground</Arena>
+    <Unique>true</Unique>
+    <Cost>1</Cost>
+    <Aspect1>Heroism</Aspect1>
     <Aspect2/>
-    <Power/>
-    <HP/>
-    <Trait1/>
-    <Trait2/>
+    <Power>1</Power>
+    <HP>4</HP>
+    <Trait1>Rebel</Trait1>
+    <Trait2>Droid</Trait2>
     <Trait3/>
-    <Front Text/>
+    <Front Text>When Played/On Attack: Look at the top card of your deck.  You may put it on the bottom of your deck. (Otherwise, leave it on top of your deck.)</Front Text>
     <DoubleSided/>
     <Back Text/>
-    <Artist/>
-    <Image Url Front/>
+    <Artist>Aitor Prieto</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/236.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>
     <Back Landscape/>
-    <Spoiler Source Url/>
+    <Spoiler Source Url>https://www.youtube.com/watch?v=Msezhwc2WE4</Spoiler Source Url>
 </235>
 <236>
     <Set>SOR</Set>
@@ -6637,30 +6637,30 @@
 <237>
     <Set>SOR</Set>
     <#>238</#>
-    <Card Name/>
-    <Title/>
-    <Type/>
-    <Rarity/>
-    <Arena/>
-    <Unique/>
-    <Cost/>
-    <Aspect1/>
+    <Card Name>C-3PO</Card Name>
+    <Title>Protocol Droid</Title>
+    <Type>Unit</Type>
+    <Rarity>S</Rarity>
+    <Arena>Ground</Arena>
+    <Unique>true</Unique>
+    <Cost>2</Cost>
+    <Aspect1>Heroism</Aspect1>
     <Aspect2/>
-    <Power/>
-    <HP/>
-    <Trait1/>
-    <Trait2/>
+    <Power>1</Power>
+    <HP>4</HP>
+    <Trait1>Rebel</Trait1>
+    <Trait2>Droid</Trait2>
     <Trait3/>
-    <Front Text/>
+    <Front Text>When Played/On Attack: Choose a number, then look at the top card of your deck.  If its cost is the chosen number, you may reveal and draw it. (Otherwise, leave it on top of your deck.)</Front Text>
     <DoubleSided/>
     <Back Text/>
-    <Artist/>
-    <Image Url Front/>
+    <Artist>Ash Pierce</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/238.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>
     <Back Landscape/>
-    <Spoiler Source Url/>
+    <Spoiler Source Url>https://www.youtube.com/watch?v=Msezhwc2WE4</Spoiler Source Url>
 </237>
 <238>
     <Set>SOR</Set>

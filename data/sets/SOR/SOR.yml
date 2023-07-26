@@ -3624,30 +3624,32 @@
   Spoiler Source Url: null
 - Set: SOR
   '#': '139'
-  Card Name: null
+  Card Name: Force Choke
   Title: null
-  Type: null
-  Rarity: null
+  Type: Event
+  Rarity: U
   Arena: null
   Unique: null
-  Cost: null
-  Aspect1: null
-  Aspect2: null
+  Cost: 2
+  Aspect1: Aggression
+  Aspect2: Villiany
   Power: null
   HP: null
-  Trait1: null
+  Trait1: Force
   Trait2: null
   Trait3: null
-  Front Text: null
+  Front Text: >-
+    If you control a FORCE unit, this event costs [1R] less to play.  Deal 5
+    damage to a non-VEHICLE unit.  That unit's controller draws a card.
   DoubleSided: null
   Back Text: null
-  Artist: null
-  Image Url Front: null
+  Artist: Stefano Landini
+  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/139.png
   Epic Action Text: null
-  Image Url back: null
+  Image Url back: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg
   Front Landscape: null
   Back Landscape: null
-  Spoiler Source Url: null
+  Spoiler Source Url: https://www.youtube.com/watch?v=Msezhwc2WE4
 - Set: SOR
   '#': '140'
   Card Name: null
@@ -5886,30 +5888,30 @@
   Spoiler Source Url: https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1249
 - Set: SOR
   '#': '226'
-  Card Name: null
-  Title: null
-  Type: null
-  Rarity: null
-  Arena: null
-  Unique: null
-  Cost: null
-  Aspect1: null
+  Card Name: Admiral Motti
+  Title: Brazen and Scornful
+  Type: Unit
+  Rarity: S
+  Arena: Ground
+  Unique: true
+  Cost: 2
+  Aspect1: Villiany
   Aspect2: null
-  Power: null
-  HP: null
-  Trait1: null
-  Trait2: null
+  Power: 1
+  HP: 1
+  Trait1: Imperial
+  Trait2: Official
   Trait3: null
-  Front Text: null
+  Front Text: 'When Defeated: You may ready a [Vil] unit.'
   DoubleSided: null
   Back Text: null
-  Artist: null
-  Image Url Front: null
+  Artist: Tomas Oleksak
+  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/226.png
   Epic Action Text: null
-  Image Url back: null
+  Image Url back: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg
   Front Landscape: null
   Back Landscape: null
-  Spoiler Source Url: null
+  Spoiler Source Url: https://www.youtube.com/watch?v=Msezhwc2WE4
 - Set: SOR
   '#': '227'
   Card Name: Snowtrooper Lieutenant
@@ -6155,30 +6157,32 @@
   Spoiler Source Url: https://starwarsunlimited.com/articles/heroism-and-villainy
 - Set: SOR
   '#': '236'
-  Card Name: null
-  Title: null
-  Type: null
-  Rarity: null
-  Arena: null
-  Unique: null
-  Cost: null
-  Aspect1: null
+  Card Name: R2-D2
+  Title: Ignoring Protocol
+  Type: Unit
+  Rarity: S
+  Arena: Ground
+  Unique: true
+  Cost: 1
+  Aspect1: Heroism
   Aspect2: null
-  Power: null
-  HP: null
-  Trait1: null
-  Trait2: null
+  Power: 1
+  HP: 4
+  Trait1: Rebel
+  Trait2: Droid
   Trait3: null
-  Front Text: null
+  Front Text: >-
+    When Played/On Attack: Look at the top card of your deck.  You may put it on
+    the bottom of your deck. (Otherwise, leave it on top of your deck.)
   DoubleSided: null
   Back Text: null
-  Artist: null
-  Image Url Front: null
+  Artist: Aitor Prieto
+  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/236.png
   Epic Action Text: null
-  Image Url back: null
+  Image Url back: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg
   Front Landscape: null
   Back Landscape: null
-  Spoiler Source Url: null
+  Spoiler Source Url: https://www.youtube.com/watch?v=Msezhwc2WE4
 - Set: SOR
   '#': '237'
   Card Name: Alliance X-Wing
@@ -6207,30 +6211,33 @@
   Spoiler Source Url: https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1249
 - Set: SOR
   '#': '238'
-  Card Name: null
-  Title: null
-  Type: null
-  Rarity: null
-  Arena: null
-  Unique: null
-  Cost: null
-  Aspect1: null
+  Card Name: C-3PO
+  Title: Protocol Droid
+  Type: Unit
+  Rarity: S
+  Arena: Ground
+  Unique: true
+  Cost: 2
+  Aspect1: Heroism
   Aspect2: null
-  Power: null
-  HP: null
-  Trait1: null
-  Trait2: null
+  Power: 1
+  HP: 4
+  Trait1: Rebel
+  Trait2: Droid
   Trait3: null
-  Front Text: null
+  Front Text: >-
+    When Played/On Attack: Choose a number, then look at the top card of your
+    deck.  If its cost is the chosen number, you may reveal and draw it.
+    (Otherwise, leave it on top of your deck.)
   DoubleSided: null
   Back Text: null
-  Artist: null
-  Image Url Front: null
+  Artist: Ash Pierce
+  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/238.png
   Epic Action Text: null
-  Image Url back: null
+  Image Url back: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg
   Front Landscape: null
   Back Landscape: null
-  Spoiler Source Url: null
+  Spoiler Source Url: https://www.youtube.com/watch?v=Msezhwc2WE4
 - Set: SOR
   '#': '239'
   Card Name: Rebel Pathfinder
