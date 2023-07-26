@@ -100,5 +100,5 @@ export function mapCardJsonToCard(card: JSONCard): Card {
 }
 
 export function mapCards(cards: JSONCard[]): Card[] {
-  return cards.map(mapCardJsonToCard)
+  return cards.filter(c => c["Card Name"]!!).map(mapCardJsonToCard)
 }

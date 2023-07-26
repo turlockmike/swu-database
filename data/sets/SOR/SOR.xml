@@ -6553,27 +6553,27 @@
 <234>
     <Set>SOR</Set>
     <#>235</#>
-    <Card Name/>
+    <Card Name>Galatic Ambition</Card Name>
     <Title/>
-    <Type/>
-    <Rarity/>
+    <Type>Event</Type>
+    <Rarity>R</Rarity>
     <Arena/>
     <Unique/>
-    <Cost/>
-    <Aspect1/>
+    <Cost>7</Cost>
+    <Aspect1>Villainy</Aspect1>
     <Aspect2/>
     <Power/>
     <HP/>
-    <Trait1/>
+    <Trait1>Innate</Trait1>
     <Trait2/>
     <Trait3/>
-    <Front Text/>
-    <DoubleSided/>
+    <Front Text>Play a non-WHT unit from your hand for free. Deal damage to your base equal to its cost.</Front Text>
+    <DoubleSided>false</DoubleSided>
     <Back Text/>
     <Artist/>
-    <Image Url Front/>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/235.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>
     <Back Landscape/>
     <Spoiler Source Url/>
@@ -6693,30 +6693,30 @@
 <239>
     <Set>SOR</Set>
     <#>240</#>
-    <Card Name/>
+    <Card Name>Fleet Lieutenant</Card Name>
     <Title/>
-    <Type/>
-    <Rarity/>
-    <Arena/>
-    <Unique/>
-    <Cost/>
-    <Aspect1/>
+    <Type>Unit</Type>
+    <Rarity>C</Rarity>
+    <Arena>Ground</Arena>
+    <Unique>false</Unique>
+    <Cost>3</Cost>
+    <Aspect1>Heroism</Aspect1>
     <Aspect2/>
-    <Power/>
-    <HP/>
-    <Trait1/>
-    <Trait2/>
+    <Power>3</Power>
+    <HP>3</HP>
+    <Trait1>Rebel</Trait1>
+    <Trait2>Trooper</Trait2>
     <Trait3/>
-    <Front Text/>
+    <Front Text>When Played: You may attack with a unit. If it's a rebel unit, it gets +2/+0 for this attack.</Front Text>
     <DoubleSided/>
     <Back Text/>
-    <Artist/>
-    <Image Url Front/>
+    <Artist>Hoan Ngyuen</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/240.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>
     <Back Landscape/>
-    <Spoiler Source Url/>
+    <Spoiler Source Url>https://starwarsunlimited.com/articles/heroism-and-villainy</Spoiler Source Url>
 </239>
 <240>
     <Set>SOR</Set>

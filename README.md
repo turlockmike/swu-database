@@ -17,7 +17,7 @@ import {SOR} from 'swu-database'
 
 Update one of the files, then run
 ```
-pnpm convert data/sets/SOR/SOR.json
+npm run convert data/sets/SOR/SOR.yml
 ```
 
 It will automatically convert to all the other formats.
