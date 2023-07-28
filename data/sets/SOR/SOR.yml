@@ -1247,30 +1247,32 @@
   Spoiler Source Url: null
 - Set: SOR
   '#': '48'
-  Card Name: null
+  Card Name: Vigilant Honor Guards
   Title: null
-  Type: null
-  Rarity: null
-  Arena: null
+  Type: Unit
+  Rarity: C
+  Arena: Ground
   Unique: null
-  Cost: null
-  Aspect1: null
-  Aspect2: null
-  Power: null
-  HP: null
-  Trait1: null
+  Cost: 5
+  Aspect1: Vigilant
+  Aspect2: Heroism
+  Power: 4
+  HP: 6
+  Trait1: Rebel
   Trait2: null
   Trait3: null
-  Front Text: null
+  Front Text: >-
+    While this unit is undamaged, it gains Sentinel. (Units in this arean can't
+    attack your non-Sentinel units or your base.)
   DoubleSided: null
   Back Text: null
-  Artist: null
-  Image Url Front: null
+  Artist: Amad Mir
+  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/048.png
   Epic Action Text: null
-  Image Url back: null
+  Image Url back: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg
   Front Landscape: null
   Back Landscape: null
-  Spoiler Source Url: null
+  Spoiler Source Url: https://youtube.com/shorts/vnenhAMgyM4
 - Set: SOR
   '#': '49'
   Card Name: null

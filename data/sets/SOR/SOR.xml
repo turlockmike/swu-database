@@ -1317,30 +1317,30 @@
 <47>
     <Set>SOR</Set>
     <#>48</#>
-    <Card Name/>
+    <Card Name>Vigilant Honor Guards</Card Name>
     <Title/>
-    <Type/>
-    <Rarity/>
-    <Arena/>
+    <Type>Unit</Type>
+    <Rarity>C</Rarity>
+    <Arena>Ground</Arena>
     <Unique/>
-    <Cost/>
-    <Aspect1/>
-    <Aspect2/>
-    <Power/>
-    <HP/>
-    <Trait1/>
+    <Cost>5</Cost>
+    <Aspect1>Vigilant</Aspect1>
+    <Aspect2>Heroism</Aspect2>
+    <Power>4</Power>
+    <HP>6</HP>
+    <Trait1>Rebel</Trait1>
     <Trait2/>
     <Trait3/>
-    <Front Text/>
+    <Front Text>While this unit is undamaged, it gains Sentinel. (Units in this arean can't attack your non-Sentinel units or your base.)</Front Text>
     <DoubleSided/>
     <Back Text/>
-    <Artist/>
-    <Image Url Front/>
+    <Artist>Amad Mir</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/048.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>
     <Back Landscape/>
-    <Spoiler Source Url/>
+    <Spoiler Source Url>https://youtube.com/shorts/vnenhAMgyM4</Spoiler Source Url>
 </47>
 <48>
     <Set>SOR</Set>
