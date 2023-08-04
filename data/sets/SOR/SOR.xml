@@ -57,30 +57,30 @@
 <2>
     <Set>SOR</Set>
     <#>3</#>
-    <Card Name/>
-    <Title/>
-    <Type/>
-    <Rarity/>
-    <Arena/>
-    <Unique/>
-    <Cost/>
-    <Aspect1/>
-    <Aspect2/>
-    <Power/>
-    <HP/>
-    <Trait1/>
-    <Trait2/>
+    <Card Name>Chewbacca</Card Name>
+    <Title>Walking Carpet</Title>
+    <Type>Leader</Type>
+    <Rarity>C</Rarity>
+    <Arena>Ground</Arena>
+    <Unique>true</Unique>
+    <Cost>7</Cost>
+    <Aspect1>Vigilance</Aspect1>
+    <Aspect2>Heroism</Aspect2>
+    <Power>2</Power>
+    <HP>9</HP>
+    <Trait1>Underworld</Trait1>
+    <Trait2>Wookie</Trait2>
     <Trait3/>
-    <Front Text/>
-    <DoubleSided/>
-    <Back Text/>
-    <Artist/>
-    <Image Url Front/>
+    <Front Text>Action [E]: Play a unit that costs 2 or less from you hand (paying its cost). It gains Sentinel for this phase.  Epic Action: If you control 7 or more resources, deploy this leader.</Front Text>
+    <DoubleSided>true</DoubleSided>
+    <Back Text>Sentinel (Units in this arena can't attack you non-Sentinel units or your base.). Grit (This unit gets +1/+0 for each damage on it.)</Back Text>
+    <Artist>Eslam Aboshady</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/003.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
-    <Front Landscape/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/003-b.png</Image Url back>
+    <Front Landscape>true</Front Landscape>
     <Back Landscape/>
-    <Spoiler Source Url/>
+    <Spoiler Source Url>https://www.youtube.com/watch?v=HgjQ-bMGkj4</Spoiler Source Url>
 </2>
 <3>
     <Set>SOR</Set>
@@ -1324,7 +1324,7 @@
     <Arena>Ground</Arena>
     <Unique/>
     <Cost>5</Cost>
-    <Aspect1>Vigilant</Aspect1>
+    <Aspect1>Vigilance</Aspect1>
     <Aspect2>Heroism</Aspect2>
     <Power>4</Power>
     <HP>6</HP>
@@ -1625,30 +1625,30 @@
 <58>
     <Set>SOR</Set>
     <#>59</#>
-    <Card Name/>
+    <Card Name>2-1B Surgical Droid</Card Name>
     <Title/>
-    <Type/>
-    <Rarity/>
-    <Arena/>
+    <Type>Unit</Type>
+    <Rarity>C</Rarity>
+    <Arena>Ground</Arena>
     <Unique/>
-    <Cost/>
-    <Aspect1/>
+    <Cost>1</Cost>
+    <Aspect1>Vigilance</Aspect1>
     <Aspect2/>
-    <Power/>
-    <HP/>
-    <Trait1/>
+    <Power>1</Power>
+    <HP>3</HP>
+    <Trait1>Droid</Trait1>
     <Trait2/>
     <Trait3/>
-    <Front Text/>
+    <Front Text>On Attack: You may heal 2 damage fro another unit.</Front Text>
     <DoubleSided/>
     <Back Text/>
-    <Artist/>
-    <Image Url Front/>
+    <Artist>Hoan Nguyen</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/059.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>
     <Back Landscape/>
-    <Spoiler Source Url/>
+    <Spoiler Source Url>https://www.youtube.com/watch?v=bUFS3Zd61MA</Spoiler Source Url>
 </58>
 <59>
     <Set>SOR</Set>
@@ -1821,30 +1821,30 @@
 <65>
     <Set>SOR</Set>
     <#>66</#>
-    <Card Name/>
+    <Card Name>System Patrol Craft</Card Name>
     <Title/>
-    <Type/>
-    <Rarity/>
-    <Arena/>
+    <Type>Unit</Type>
+    <Rarity>C</Rarity>
+    <Arena>pace</Arena>
     <Unique/>
-    <Cost/>
-    <Aspect1/>
+    <Cost>4</Cost>
+    <Aspect1>Vigilance</Aspect1>
     <Aspect2/>
-    <Power/>
-    <HP/>
-    <Trait1/>
-    <Trait2/>
+    <Power>3</Power>
+    <HP>4</HP>
+    <Trait1>Vehicle</Trait1>
+    <Trait2>Fighter</Trait2>
     <Trait3/>
-    <Front Text/>
+    <Front Text>Sentinet (Units in this arean can't attack you non-Sentinel units or your base.)</Front Text>
     <DoubleSided/>
     <Back Text/>
-    <Artist/>
-    <Image Url Front/>
+    <Artist>Christian Papazoglakis</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/066.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>
     <Back Landscape/>
-    <Spoiler Source Url/>
+    <Spoiler Source Url>https://www.youtube.com/watch?v=HgjQ-bMGkj4</Spoiler Source Url>
 </65>
 <66>
     <Set>SOR</Set>
@@ -5461,30 +5461,30 @@
 <195>
     <Set>SOR</Set>
     <#>196</#>
-    <Card Name/>
-    <Title/>
-    <Type/>
-    <Rarity/>
-    <Arena/>
-    <Unique/>
-    <Cost/>
-    <Aspect1/>
-    <Aspect2/>
-    <Power/>
-    <HP/>
-    <Trait1/>
-    <Trait2/>
+    <Card Name>Chewbacca</Card Name>
+    <Title>Loyal Companion</Title>
+    <Type>Unit</Type>
+    <Rarity>U</Rarity>
+    <Arena>Ground</Arena>
+    <Unique>true</Unique>
+    <Cost>5</Cost>
+    <Aspect1>Cunning</Aspect1>
+    <Aspect2>Heroism</Aspect2>
+    <Power>3</Power>
+    <HP>6</HP>
+    <Trait1>Underworld</Trait1>
+    <Trait2>Wookie</Trait2>
     <Trait3/>
-    <Front Text/>
+    <Front Text>Sentinel (Units in this arena can't attack you non-Sentinel units or your base.) When this unit is attacked: Ready him.</Front Text>
     <DoubleSided/>
     <Back Text/>
-    <Artist/>
-    <Image Url Front/>
+    <Artist>Luke Harrington</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/196.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>
     <Back Landscape/>
-    <Spoiler Source Url/>
+    <Spoiler Source Url>https://www.youtube.com/watch?v=bUFS3Zd61MA</Spoiler Source Url>
 </195>
 <196>
     <Set>SOR</Set>
@@ -5517,30 +5517,30 @@
 <197>
     <Set>SOR</Set>
     <#>198</#>
-    <Card Name/>
-    <Title/>
-    <Type/>
-    <Rarity/>
-    <Arena/>
-    <Unique/>
-    <Cost/>
-    <Aspect1/>
-    <Aspect2/>
-    <Power/>
-    <HP/>
-    <Trait1/>
+    <Card Name>Han Solo</Card Name>
+    <Title>Reluctant Hero</Title>
+    <Type>Unit</Type>
+    <Rarity>R</Rarity>
+    <Arena>Ground</Arena>
+    <Unique>true</Unique>
+    <Cost>7</Cost>
+    <Aspect1>Cunning</Aspect1>
+    <Aspect2>Heroism</Aspect2>
+    <Power>6</Power>
+    <HP>6</HP>
+    <Trait1>Underworld</Trait1>
     <Trait2/>
     <Trait3/>
-    <Front Text/>
+    <Front Text>Ambush (After you play this unit, he may ready and attack an enemy unit.) While attacking, this unit deals combat damage before the defender.</Front Text>
     <DoubleSided/>
     <Back Text/>
-    <Artist/>
-    <Image Url Front/>
+    <Artist>Borja Pindado</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/198.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>
     <Back Landscape/>
-    <Spoiler Source Url/>
+    <Spoiler Source Url>https://www.gamesradar.com/exclusive-look-at-han-solos-card-in-star-wars-unlimited/</Spoiler Source Url>
 </197>
 <198>
     <Set>SOR</Set>
@@ -6441,58 +6441,58 @@
 <230>
     <Set>SOR</Set>
     <#>231</#>
-    <Card Name/>
+    <Card Name>TIE Advanced</Card Name>
     <Title/>
-    <Type/>
-    <Rarity/>
-    <Arena/>
+    <Type>Unit</Type>
+    <Rarity>U</Rarity>
+    <Arena>Space</Arena>
     <Unique/>
-    <Cost/>
-    <Aspect1/>
+    <Cost>4</Cost>
+    <Aspect1>Villainy</Aspect1>
     <Aspect2/>
-    <Power/>
-    <HP/>
-    <Trait1/>
-    <Trait2/>
-    <Trait3/>
-    <Front Text/>
+    <Power>3</Power>
+    <HP>2</HP>
+    <Trait1>Imperial</Trait1>
+    <Trait2>Vehicle</Trait2>
+    <Trait3>Fighter</Trait3>
+    <Front Text>When Played: Give 2 Experience tokens to another friendly IMPERIAL unit.</Front Text>
     <DoubleSided/>
     <Back Text/>
-    <Artist/>
-    <Image Url Front/>
+    <Artist>Eslam Aboshady</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/231.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>
     <Back Landscape/>
-    <Spoiler Source Url/>
+    <Spoiler Source Url>https://www.youtube.com/watch?v=HgjQ-bMGkj4</Spoiler Source Url>
 </230>
 <231>
     <Set>SOR</Set>
     <#>232</#>
-    <Card Name/>
+    <Card Name>AT-ST</Card Name>
     <Title/>
-    <Type/>
-    <Rarity/>
-    <Arena/>
+    <Type>Unit</Type>
+    <Rarity>C</Rarity>
+    <Arena>Ground</Arena>
     <Unique/>
-    <Cost/>
-    <Aspect1/>
+    <Cost>6</Cost>
+    <Aspect1>Villainy</Aspect1>
     <Aspect2/>
-    <Power/>
-    <HP/>
-    <Trait1/>
-    <Trait2/>
-    <Trait3/>
-    <Front Text/>
+    <Power>6</Power>
+    <HP>7</HP>
+    <Trait1>Imperial</Trait1>
+    <Trait2>Vehicle</Trait2>
+    <Trait3>Walker</Trait3>
+    <Front Text>Overwhelm (When attacking an enemy unit, deal excess damage to opponent's base.)</Front Text>
     <DoubleSided/>
     <Back Text/>
-    <Artist/>
-    <Image Url Front/>
+    <Artist>Stephen Zavala</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/232.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>
     <Back Landscape/>
-    <Spoiler Source Url/>
+    <Spoiler Source Url>https://www.youtube.com/watch?v=bUFS3Zd61MA</Spoiler Source Url>
 </231>
 <232>
     <Set>SOR</Set>
@@ -6805,30 +6805,30 @@
 <243>
     <Set>SOR</Set>
     <#>244</#>
-    <Card Name/>
+    <Card Name>Snowspeeder</Card Name>
     <Title/>
-    <Type/>
-    <Rarity/>
-    <Arena/>
+    <Type>Unit</Type>
+    <Rarity>C</Rarity>
+    <Arena>Ground</Arena>
     <Unique/>
-    <Cost/>
-    <Aspect1/>
+    <Cost>5</Cost>
+    <Aspect1>Heroism</Aspect1>
     <Aspect2/>
-    <Power/>
-    <HP/>
-    <Trait1/>
-    <Trait2/>
-    <Trait3/>
-    <Front Text/>
+    <Power>3</Power>
+    <HP>6</HP>
+    <Trait1>Rebel</Trait1>
+    <Trait2>Vehicle</Trait2>
+    <Trait3>Speeder</Trait3>
+    <Front Text>Ambush (After you play this unit, it may ready and attack an enemy unit.) On Attack: Exhaust an enemy VEHICLE ground unit.</Front Text>
     <DoubleSided/>
     <Back Text/>
-    <Artist/>
-    <Image Url Front/>
+    <Artist>Fernando Correa</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/244.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>
     <Back Landscape/>
-    <Spoiler Source Url/>
+    <Spoiler Source Url>https://www.youtube.com/watch?v=bUFS3Zd61MA</Spoiler Source Url>
 </243>
 <244>
     <Set>SOR</Set>
