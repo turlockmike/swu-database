@@ -56,30 +56,35 @@
   Spoiler Source Url: null
 - Set: SOR
   '#': '3'
-  Card Name: null
-  Title: null
-  Type: null
-  Rarity: null
-  Arena: null
-  Unique: null
-  Cost: null
-  Aspect1: null
-  Aspect2: null
-  Power: null
-  HP: null
-  Trait1: null
-  Trait2: null
+  Card Name: Chewbacca
+  Title: Walking Carpet
+  Type: Leader
+  Rarity: C
+  Arena: Ground
+  Unique: true
+  Cost: 7
+  Aspect1: Vigilance
+  Aspect2: Heroism
+  Power: 2
+  HP: 9
+  Trait1: Underworld
+  Trait2: Wookie
   Trait3: null
-  Front Text: null
-  DoubleSided: null
-  Back Text: null
-  Artist: null
-  Image Url Front: null
+  Front Text: >-
+    Action [E]: Play a unit that costs 2 or less from you hand (paying its
+    cost). It gains Sentinel for this phase.  Epic Action: If you control 7 or
+    more resources, deploy this leader.
+  DoubleSided: true
+  Back Text: >-
+    Sentinel (Units in this arena can't attack you non-Sentinel units or your
+    base.). Grit (This unit gets +1/+0 for each damage on it.)
+  Artist: Eslam Aboshady
+  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/003.png
   Epic Action Text: null
-  Image Url back: null
-  Front Landscape: null
+  Image Url back: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/003-b.png
+  Front Landscape: true
   Back Landscape: null
-  Spoiler Source Url: null
+  Spoiler Source Url: https://www.youtube.com/watch?v=HgjQ-bMGkj4
 - Set: SOR
   '#': '4'
   Card Name: null
@@ -1254,7 +1259,7 @@
   Arena: Ground
   Unique: null
   Cost: 5
-  Aspect1: Vigilant
+  Aspect1: Vigilance
   Aspect2: Heroism
   Power: 4
   HP: 6
@@ -1535,30 +1540,30 @@
   Spoiler Source Url: null
 - Set: SOR
   '#': '59'
-  Card Name: null
+  Card Name: 2-1B Surgical Droid
   Title: null
-  Type: null
-  Rarity: null
-  Arena: null
+  Type: Unit
+  Rarity: C
+  Arena: Ground
   Unique: null
-  Cost: null
-  Aspect1: null
+  Cost: 1
+  Aspect1: Vigilance
   Aspect2: null
-  Power: null
-  HP: null
-  Trait1: null
+  Power: 1
+  HP: 3
+  Trait1: Droid
   Trait2: null
   Trait3: null
-  Front Text: null
+  Front Text: 'On Attack: You may heal 2 damage fro another unit.'
   DoubleSided: null
   Back Text: null
-  Artist: null
-  Image Url Front: null
+  Artist: Hoan Nguyen
+  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/059.png
   Epic Action Text: null
-  Image Url back: null
+  Image Url back: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg
   Front Landscape: null
   Back Landscape: null
-  Spoiler Source Url: null
+  Spoiler Source Url: https://www.youtube.com/watch?v=bUFS3Zd61MA
 - Set: SOR
   '#': '60'
   Card Name: null
@@ -1719,30 +1724,32 @@
   Spoiler Source Url: null
 - Set: SOR
   '#': '66'
-  Card Name: null
+  Card Name: System Patrol Craft
   Title: null
-  Type: null
-  Rarity: null
-  Arena: null
+  Type: Unit
+  Rarity: C
+  Arena: pace
   Unique: null
-  Cost: null
-  Aspect1: null
+  Cost: 4
+  Aspect1: Vigilance
   Aspect2: null
-  Power: null
-  HP: null
-  Trait1: null
-  Trait2: null
+  Power: 3
+  HP: 4
+  Trait1: Vehicle
+  Trait2: Fighter
   Trait3: null
-  Front Text: null
+  Front Text: >-
+    Sentinet (Units in this arean can't attack you non-Sentinel units or your
+    base.)
   DoubleSided: null
   Back Text: null
-  Artist: null
-  Image Url Front: null
+  Artist: Christian Papazoglakis
+  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/066.png
   Epic Action Text: null
-  Image Url back: null
+  Image Url back: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg
   Front Landscape: null
   Back Landscape: null
-  Spoiler Source Url: null
+  Spoiler Source Url: https://www.youtube.com/watch?v=HgjQ-bMGkj4
 - Set: SOR
   '#': '67'
   Card Name: null
@@ -5112,30 +5119,32 @@
   Spoiler Source Url: https://youtu.be/TO7ae1EX5hg
 - Set: SOR
   '#': '196'
-  Card Name: null
-  Title: null
-  Type: null
-  Rarity: null
-  Arena: null
-  Unique: null
-  Cost: null
-  Aspect1: null
-  Aspect2: null
-  Power: null
-  HP: null
-  Trait1: null
-  Trait2: null
+  Card Name: Chewbacca
+  Title: Loyal Companion
+  Type: Unit
+  Rarity: U
+  Arena: Ground
+  Unique: true
+  Cost: 5
+  Aspect1: Cunning
+  Aspect2: Heroism
+  Power: 3
+  HP: 6
+  Trait1: Underworld
+  Trait2: Wookie
   Trait3: null
-  Front Text: null
+  Front Text: >-
+    Sentinel (Units in this arena can't attack you non-Sentinel units or your
+    base.) When this unit is attacked: Ready him.
   DoubleSided: null
   Back Text: null
-  Artist: null
-  Image Url Front: null
+  Artist: Luke Harrington
+  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/196.png
   Epic Action Text: null
-  Image Url back: null
+  Image Url back: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg
   Front Landscape: null
   Back Landscape: null
-  Spoiler Source Url: null
+  Spoiler Source Url: https://www.youtube.com/watch?v=bUFS3Zd61MA
 - Set: SOR
   '#': '197'
   Card Name: null
@@ -5164,30 +5173,33 @@
   Spoiler Source Url: null
 - Set: SOR
   '#': '198'
-  Card Name: null
-  Title: null
-  Type: null
-  Rarity: null
-  Arena: null
-  Unique: null
-  Cost: null
-  Aspect1: null
-  Aspect2: null
-  Power: null
-  HP: null
-  Trait1: null
+  Card Name: Han Solo
+  Title: Reluctant Hero
+  Type: Unit
+  Rarity: R
+  Arena: Ground
+  Unique: true
+  Cost: 7
+  Aspect1: Cunning
+  Aspect2: Heroism
+  Power: 6
+  HP: 6
+  Trait1: Underworld
   Trait2: null
   Trait3: null
-  Front Text: null
+  Front Text: >-
+    Ambush (After you play this unit, he may ready and attack an enemy unit.)
+    While attacking, this unit deals combat damage before the defender.
   DoubleSided: null
   Back Text: null
-  Artist: null
-  Image Url Front: null
+  Artist: Borja Pindado
+  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/198.png
   Epic Action Text: null
-  Image Url back: null
+  Image Url back: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg
   Front Landscape: null
   Back Landscape: null
-  Spoiler Source Url: null
+  Spoiler Source Url: >-
+    https://www.gamesradar.com/exclusive-look-at-han-solos-card-in-star-wars-unlimited/
 - Set: SOR
   '#': '199'
   Card Name: null
@@ -6024,56 +6036,58 @@
   Spoiler Source Url: null
 - Set: SOR
   '#': '231'
-  Card Name: null
+  Card Name: TIE Advanced
   Title: null
-  Type: null
-  Rarity: null
-  Arena: null
+  Type: Unit
+  Rarity: U
+  Arena: Space
   Unique: null
-  Cost: null
-  Aspect1: null
+  Cost: 4
+  Aspect1: Villainy
   Aspect2: null
-  Power: null
-  HP: null
-  Trait1: null
-  Trait2: null
-  Trait3: null
-  Front Text: null
+  Power: 3
+  HP: 2
+  Trait1: Imperial
+  Trait2: Vehicle
+  Trait3: Fighter
+  Front Text: 'When Played: Give 2 Experience tokens to another friendly IMPERIAL unit.'
   DoubleSided: null
   Back Text: null
-  Artist: null
-  Image Url Front: null
+  Artist: Eslam Aboshady
+  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/231.png
   Epic Action Text: null
-  Image Url back: null
+  Image Url back: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg
   Front Landscape: null
   Back Landscape: null
-  Spoiler Source Url: null
+  Spoiler Source Url: https://www.youtube.com/watch?v=HgjQ-bMGkj4
 - Set: SOR
   '#': '232'
-  Card Name: null
+  Card Name: AT-ST
   Title: null
-  Type: null
-  Rarity: null
-  Arena: null
+  Type: Unit
+  Rarity: C
+  Arena: Ground
   Unique: null
-  Cost: null
-  Aspect1: null
+  Cost: 6
+  Aspect1: Villainy
   Aspect2: null
-  Power: null
-  HP: null
-  Trait1: null
-  Trait2: null
-  Trait3: null
-  Front Text: null
+  Power: 6
+  HP: 7
+  Trait1: Imperial
+  Trait2: Vehicle
+  Trait3: Walker
+  Front Text: >-
+    Overwhelm (When attacking an enemy unit, deal excess damage to opponent's
+    base.)
   DoubleSided: null
   Back Text: null
-  Artist: null
-  Image Url Front: null
+  Artist: Stephen Zavala
+  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/232.png
   Epic Action Text: null
-  Image Url back: null
+  Image Url back: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg
   Front Landscape: null
   Back Landscape: null
-  Spoiler Source Url: null
+  Spoiler Source Url: https://www.youtube.com/watch?v=bUFS3Zd61MA
 - Set: SOR
   '#': '233'
   Card Name: I Am Your Father
@@ -6379,30 +6393,32 @@
   Spoiler Source Url: null
 - Set: SOR
   '#': '244'
-  Card Name: null
+  Card Name: Snowspeeder
   Title: null
-  Type: null
-  Rarity: null
-  Arena: null
+  Type: Unit
+  Rarity: C
+  Arena: Ground
   Unique: null
-  Cost: null
-  Aspect1: null
+  Cost: 5
+  Aspect1: Heroism
   Aspect2: null
-  Power: null
-  HP: null
-  Trait1: null
-  Trait2: null
-  Trait3: null
-  Front Text: null
+  Power: 3
+  HP: 6
+  Trait1: Rebel
+  Trait2: Vehicle
+  Trait3: Speeder
+  Front Text: >-
+    Ambush (After you play this unit, it may ready and attack an enemy unit.) On
+    Attack: Exhaust an enemy VEHICLE ground unit.
   DoubleSided: null
   Back Text: null
-  Artist: null
-  Image Url Front: null
+  Artist: Fernando Correa
+  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/244.png
   Epic Action Text: null
-  Image Url back: null
+  Image Url back: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg
   Front Landscape: null
   Back Landscape: null
-  Spoiler Source Url: null
+  Spoiler Source Url: https://www.youtube.com/watch?v=bUFS3Zd61MA
 - Set: SOR
   '#': '245'
   Card Name: null
