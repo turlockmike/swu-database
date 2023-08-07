@@ -1,255 +1,255 @@
-"Set","#","Card Name","Title","Type","Rarity","Arena","Unique","Cost","Aspect1","Aspect2","Power","HP","Trait1","Trait2","Trait3","Front Text","DoubleSided","Back Text","Artist","Image Url Front","Epic Action Text","Image Url back","Front Landscape","Back Landscape","Spoiler Source Url"
-"SOR","1","Director Krennic","Aspiring to Authority","Leader","C","Ground",true,5,"Vigilance","Villainy",2,7,"Imperial","Official",,"Each friendly damaged unit gets +1/+0. Epic Action: If you control 5 or more resources, deploy this leader.",true,"Restore 2 (When this unit attacks, heal 2 damage from your base.). Each friendly damaged unit gets +1/+0.","Ario Murti","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/001.png","If you control 5 or more resources, deploy this leader.","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/001-b.png",true,,"https://twitter.com/UnlimitedFFG/status/1677331851038322690"
-"SOR","2",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","3","Chewbacca","Walking Carpet","Leader","C","Ground",true,7,"Vigilance","Heroism",2,9,"Underworld","Wookie",,"Action [E]: Play a unit that costs 2 or less from you hand (paying its cost). It gains Sentinel for this phase.  Epic Action: If you control 7 or more resources, deploy this leader.",true,"Sentinel (Units in this arena can't attack you non-Sentinel units or your base.). Grit (This unit gets +1/+0 for each damage on it.)","Eslam Aboshady","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/003.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/003-b.png",true,,"https://www.youtube.com/watch?v=HgjQ-bMGkj4"
-"SOR","4",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","5","Luke Skywalker","Faithful Friend","Leader","S","Ground",true,6,"Vigilance","Heroism",4,7,"Force","Rebel",,"Action [1{G}, T]: Give a shield token to a {heroism} unit you played this phase. Epic Action: If you control 6 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.",true,"On Attack: You may give another unit a Shield Token","Borja Pindado","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/005.png","If you control 6 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/005-b.png",true,,"https://starwarsunlimited.com/articles/star-wars-unlimited-first-look"
-"SOR","6",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","7",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","8",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","9","Leia Organa","Alliance General","Leader","C","Ground",true,5,"Command","Heroism",3,6,"Rebel","Official",,"Action [T]: Attack with a REBEL unit. Then, you may attack with another REBEL unit. Epic Action: If you contorl 5 or more resources, deploy this leader.",true,"Raid 1. When this unit completes an attack: You may attack with another REBEL unit","Sandra Chilewinska","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/009.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/009-b.png",true,,"https://twitter.com/UnlimitedFFG/status/1667184970727583744"
-"SOR","10","Darth Vader","Dark Lord of the Sith","Leader","S","Ground",true,7,"Aggression","Villainy",5,8,"Force","Imperial","Sith","Action [1{G}, T]: If you played a {villainy} card this phase, deal 1 damage to a unit and 1 damage to a base. Epic Action: If you control 7 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.",true,"On Attack: You may deal 2 damage to a unit. ","Borja Pindado","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/010.png","If you control 7 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/010-b.png",true,,"https://starwarsunlimited.com/articles/star-wars-unlimited-first-look"
-"SOR","11",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","12",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","13",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","14",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","15",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","16",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","17",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","18",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","19",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","20",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","21","Dagobah Swamp","Dagobah","Base","C",,,,"Vigilance",,,30,,,,,,,"Tyler Edlin","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/021.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",true,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1197"
-"SOR","22",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","23","Command Center","Death Star","Base","C",,,,"Command",,,30,,,,,,,"Stephen Zavala","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/023.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",true,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1230"
-"SOR","24",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","25",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","26","Catacombs of Cadera","Jedha","Base","C",,,,"Aggression",,,30,,,,,,,"Tyler Edlin","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/026.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",true,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1969"
-"SOR","27",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","28",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","29","Administrator's Tower","Cloud City","Base","C",,,,"Cunning",,,30,,,,,,,"Tyler Edlin","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/029.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",true,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1230"
-"SOR","30",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","31",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","32",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","33",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","34",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","35",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","36",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","37",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","38",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","39",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","40",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","41",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","42",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","43",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","44","Restored ARC-170",,"Unit","C","Space",false,2,"Vigilance","Heroism",2,3,"Rebel","Vehicle","Fighter","Restore 1 (When this unit attacks, heal 2 damage from your base.) When Defeated: Choose any number of players. They each draw a card.",false,,"Arthur Mougne","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/044.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/Q_n9IbiXe6c?t=29"
-"SOR","45","Yoda","Old Master","Unit","U","Ground",true,3,"Vigilance","Heroism",2,4,"Force","Jedi",,"Restore 2 (When this unit attacks, heal 2 damage from your base.) When Defeated: Choose any number of players. They each draw a card.",false,,"Alexanria Huntington","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/045.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1249"
-"SOR","46","Consular Security Force",,"Unit","C","Ground",false,4,"Vigilance","Heroism",3,7,"Rebel","Trooper",,,,,"Rebecca Farrow","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/046.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://images-cdn.fantasyflightgames.com/filer_public/03/d6/03d6d3ef-09d8-46f2-b9bf-948e57b697ca/sw_unlimited_quickstart_rules.pdf"
-"SOR","47",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","48","Vigilant Honor Guards",,"Unit","C","Ground",,5,"Vigilance","Heroism",4,6,"Rebel",,,"While this unit is undamaged, it gains Sentinel. (Units in this arean can't attack your non-Sentinel units or your base.)",,,"Amad Mir","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/048.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtube.com/shorts/vnenhAMgyM4"
-"SOR","49",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","50",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","51",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","52",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","53",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","54",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","55",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","56",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","57",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","58",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","59","2-1B Surgical Droid",,"Unit","C","Ground",,1,"Vigilance",,1,3,"Droid",,,"On Attack: You may heal 2 damage fro another unit.",,,"Hoan Nguyen","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/059.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=bUFS3Zd61MA"
-"SOR","60",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","61",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","62",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","63","Cloud City Wing Guard",,"Unit","C","Ground",false,3,"Vigilance",,2,4,"Fringe","Trooper",,"Sentinel (Units in this arena can't attack your non-sentinel Units or your base)",false,,"Tomas Oleksak","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/063.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/ZDKza3yNX9w?t=92"
-"SOR","64",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","65",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","66","System Patrol Craft",,"Unit","C","pace",,4,"Vigilance",,3,4,"Vehicle","Fighter",,"Sentinet (Units in this arean can't attack you non-Sentinel units or your base.)",,,"Christian Papazoglakis","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/066.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=HgjQ-bMGkj4"
-"SOR","67",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","68",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","69",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","70",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","71",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","72",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","73",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","74","Repair",,"Event","C",,false,1,"Vigilance",,,,"Supply",,,"Heal 3 damage from a unit of base.",false,,"Joshua Carson","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/074.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=tIVvKt--lPc&t=6s"
-"SOR","75",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","76",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","77",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","78","Vanquish",,"Event","C",,,5,"Vigilance",,,,"Tactic",,,"Defeat a non-leader unit.",,,"Eslam Aboshady","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/078.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1506"
-"SOR","79",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","80",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","81",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","82","Emperor's Royal Guard",,"Unit","R","Ground",false,3,"Command","Villainy",3,4,"Imperial",,,"While you control an Official unit, this unit gains Sentinel. While you control Emperor Palpatine (as a leader or unit), this unit gets +0/+1.",false,,"French Carlomagno","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/082.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",false,,"https://www.youtube.com/watch?v=6cWmjXCAFKg"
-"SOR","83","Superlaser Technician",,"Unit","C","Ground",false,3,"Command","Villainy",2,1,"Imperial",,,"When Defeated: You may put this unit into play as a resource and ready it.",false,,"Denis Merdi","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/083.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",false,,"https://youtu.be/v2anF9BpUsA?t=2260"
-"SOR","84","Grand Moff Tarkin","Death Star Overseer","Unit","S","Ground",true,4,"Command","Villainy",2,3,"Imperial","Official",,"When Played: Search the top 5 cards of your deck for up to 2 IMPERIAL cards, reveal them, and draw them. (Put the other cards on the bottom of your deck in a random order.)",false,,"Steve Morris","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/084.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://starwarsunlimited.com/articles/star-wars-unlimited-first-look"
-"SOR","85",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","86",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","87",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","88",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","89",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","90",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","91",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","92",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","93",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","94",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","95",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","96",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","97",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","98",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","99",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","100",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","101",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","102",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","103",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","104",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","105",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","106",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","107",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","108",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","109",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","110",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","111",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","112",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","113",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","114",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","115",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","116",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","117",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","118",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","119",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","120",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","121",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","122",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","123",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","124",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","125",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","126",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","127",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","128","Death Star Stormtrooper",,"Unit","C","Ground",false,1,"Aggression","Villainy",3,1,"Imperial","Trooper",,,false,,"Ario Murti","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/128.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://images-cdn.fantasyflightgames.com/filer_public/03/d6/03d6d3ef-09d8-46f2-b9bf-948e57b697ca/sw_unlimited_quickstart_rules.pdf"
-"SOR","129",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","130","First Legion Snowtrooper",,"Unit","C","Ground",,2,"Aggression","Villainy",2,3,"Imperial","Trooper",,"While attacking a damaged unit, this unit gains +2/+0 and gains Overwhelm. (Deal excess damage to the opponent's base.)",,,"Milos Slackovic","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/130.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://starwarsunlimited.com/articles/a-taste-of-unlimited-possibilities"
-"SOR","131",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","132","Imperial Interceptor",,"Unit","C","Space",false,4,"Aggression","Villainy",3,2,"Imperial","Vehicle","Fighter","When Played: You may deal 3 damage to a space unit.",false,,"Francois Cannels","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/132.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=OLrH6RkqNp4&ab_channel=SAGA%3ASpaceArenaGroundArena"
-"SOR","133",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","134",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","135",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","136","Vader's Lightsaber",,"Upgrade","S",,true,2,"Aggression","Villainy",3,1,"Item","Weapon","Lightsaber","Attach to a non-Vehicle unit. When Played: If attached unit is Darth Vader, you may deal 4 damage to a ground unit.",,,"Arthur Mougne","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/136.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1401"
-"SOR","137",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","138",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","139","Force Choke",,"Event","U",,,2,"Aggression","Villainy",,,"Force",,,"If you control a FORCE unit, this event costs [1R] less to play.  Deal 5 damage to a non-VEHICLE unit.  That unit's controller draws a card.",,,"Stefano Landini","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/139.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=Msezhwc2WE4"
-"SOR","140",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","141",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","142",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","143",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","144",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","145",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","146",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","147",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","148",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","149",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","150",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","151",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","152",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","153",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","154",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","155",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","156",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","157",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","158",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","159",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","160",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","161",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","162",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","163",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","164",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","165",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","166",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","167",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","168",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","169",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","170",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","171",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","172","Open Fire",,"Event","C",,,3,"Aggression",,,,"Tactic",,,"Deal 4 damage to a unit.",false,,"Fernando Correa","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/172.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/IcqTW-7nAh8?t=142"
-"SOR","173",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","174",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","175",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","176",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","177",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","178",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","179",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","180",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","181",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","182",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","183",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","184",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","185",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","186",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","187",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","188",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","189","Leia Organa","Defiant Princess","Unit","S","Ground",true,2,"Cunning","Heroism",2,2,"Rebel","Official",,"When Played: Either ready a resource or exhaust a unit",false,,"Robynn Frauhn","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/189.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/0mscZBVRiX0?t=34"
-"SOR","190",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","191",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","192",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","193",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","194",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","195","Auzituck Liberator Gunship",,"Unit","C","Space",false,4,"Cunning","Heroism",3,4,"Vehicle","Fighter",,"Ambush (After you play this unit, it may ready and attack an enemy unit.)",false,,"Mark Zhang","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/195.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/TO7ae1EX5hg"
-"SOR","196","Chewbacca","Loyal Companion","Unit","U","Ground",true,5,"Cunning","Heroism",3,6,"Underworld","Wookie",,"Sentinel (Units in this arena can't attack you non-Sentinel units or your base.) When this unit is attacked: Ready him.",,,"Luke Harrington","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/196.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=bUFS3Zd61MA"
-"SOR","197",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","198","Han Solo","Reluctant Hero","Unit","R","Ground",true,7,"Cunning","Heroism",6,6,"Underworld",,,"Ambush (After you play this unit, he may ready and attack an enemy unit.) While attacking, this unit deals combat damage before the defender.",,,"Borja Pindado","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/198.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.gamesradar.com/exclusive-look-at-han-solos-card-in-star-wars-unlimited/"
-"SOR","199",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","200",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","201",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","202",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","203",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","204",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","205",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","206",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","207",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","208",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","209",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","210",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","211",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","212",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","213",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","214",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","215",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","216",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","217",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","218",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","219",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","220","Suprise Strike",,"Event","C",,,2,"Cunning",,,,"Tactic",,,"Attack with a unit. It gets +3/+0 for this attack. ",false,,"Ario Murti","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/220.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/LiF62cBi_pk?t=24"
-"SOR","221",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","222","Waylay",,"Event","C",,,3,"Cunning",,,,"Trick",,,"Return a non-leader unit to its owner's hand.",,,"Amelie Hutt","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/222.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://starwarsunlimited.com/articles/a-taste-of-unlimited-possibilities"
-"SOR","223",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","224",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","225","Tie/ln Fighter",,"Unit","C","Space",false,1,"Villainy",,2,1,"Imperial","Vehicle","Fighter",,,,"French Carlomagno","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/225.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1249"
-"SOR","226","Admiral Motti","Brazen and Scornful","Unit","S","Ground",true,2,"Villainy",,1,1,"Imperial","Official",,"When Defeated: You may ready a [Vil] unit.",,,"Tomas Oleksak","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/226.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=Msezhwc2WE4"
-"SOR","227","Snowtrooper Lieutenant",,"Unit","C","Ground",false,2,"Villainy",,2,2,"Imperial","Trooper",,"When Played: You may attack with a unit. If it's an imperial unit, it gets +2/+0 for this attack.",false,,"Erik Ly","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/227.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/SW65sZFFjC8?t=204"
-"SOR","228","Viper Probe Droid",,"Unit","C","Ground",false,2,"Villainy",,3,2,"Imperial","Droid",,"When Played: Look at an opponent’s hand.",false,,"Amad Mir","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/228.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/ZDKza3yNX9w?t=362"
-"SOR","229","Cell Block Guard",,"Unit","C","Ground",false,3,"Villainy",,3,3,"Imperial","Trooper",,"Sentinel",,,"French Carlomagno","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/229.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1249"
-"SOR","230",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","231","TIE Advanced",,"Unit","U","Space",,4,"Villainy",,3,2,"Imperial","Vehicle","Fighter","When Played: Give 2 Experience tokens to another friendly IMPERIAL unit.",,,"Eslam Aboshady","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/231.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=HgjQ-bMGkj4"
-"SOR","232","AT-ST",,"Unit","C","Ground",,6,"Villainy",,6,7,"Imperial","Vehicle","Walker","Overwhelm (When attacking an enemy unit, deal excess damage to opponent's base.)",,,"Stephen Zavala","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/232.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=bUFS3Zd61MA"
-"SOR","233","I Am Your Father",,"Event","S",,false,3,"Villainy",,,,"Gambit",,,"Deal 7 damage to an enemy unit unless its controller say ""no"".  If they do, draw 3 cards.",false,,"Stefano Landini","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/233.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://twitter.com/UnlimitedFFG/status/1670446401581350920?s=20"
-"SOR","234","Maximum Firepower",,"Event","C",,false,4,"Villainy",,,,"Imperial","Tactic",,"A friendly IMPERIAL unit deals damage equal to its power to a unit. Then, another friendly IMPERIAL unit deals damage equal to its power to the same unit.",false,,"Stephen Zavala","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/234.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/0mscZBVRiX0?t=36"
-"SOR","235","Galatic Ambition",,"Event","R",,,7,"Villainy",,,,"Innate",,,"Play a non-WHT unit from your hand for free. Deal damage to your base equal to its cost.",false,,"andre mealha","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/235.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://starwarsunlimited.com/articles/heroism-and-villainy"
-"SOR","236","R2-D2","Ignoring Protocol","Unit","S","Ground",true,1,"Heroism",,1,4,"Rebel","Droid",,"When Played/On Attack: Look at the top card of your deck.  You may put it on the bottom of your deck. (Otherwise, leave it on top of your deck.)",,,"Aitor Prieto","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/236.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=Msezhwc2WE4"
-"SOR","237","Alliance X-Wing",,"Unit","C","Space",,2,"Heroism",,2,3,"Rebel","Vehicle","Fighter",,,,"Francois Cannels","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/237.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1249"
-"SOR","238","C-3PO","Protocol Droid","Unit","S","Ground",true,2,"Heroism",,1,4,"Rebel","Droid",,"When Played/On Attack: Choose a number, then look at the top card of your deck.  If its cost is the chosen number, you may reveal and draw it. (Otherwise, leave it on top of your deck.)",,,"Ash Pierce","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/238.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=Msezhwc2WE4"
-"SOR","239","Rebel Pathfinder",,"Unit","C","Ground",false,2,"Heroism",,2,3,"Rebel","Trooper",,"Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)",false,,"Joshua Carson","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/239.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://wrecknrule.com/2023/07/19/star-wars-unlimited-card-reveal-rebel-pathfinder/"
-"SOR","240","Fleet Lieutenant",,"Unit","C","Ground",false,3,"Heroism",,3,3,"Rebel","Trooper",,"When Played: You may attack with a unit. If it's a rebel unit, it gets +2/+0 for this attack.",,,"Hoan Ngyuen","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/240.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://starwarsunlimited.com/articles/heroism-and-villainy"
-"SOR","241","Wing Leader",,"Unit","U","Space",false,3,"Heroism",,2,1,"Rebel","Vehicle","Fighter","When Played: Give 2 Experience Tokens to another friendly REBEL unit",false,,"French Carlomagno","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/241.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://starwarsunlimited.com/articles/star-wars-unlimited-first-look"
-"SOR","242",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","243",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","244","Snowspeeder",,"Unit","C","Ground",,5,"Heroism",,3,6,"Rebel","Vehicle","Speeder","Ambush (After you play this unit, it may ready and attack an enemy unit.) On Attack: Exhaust an enemy VEHICLE ground unit.",,,"Fernando Correa","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/244.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=bUFS3Zd61MA"
-"SOR","245",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","246","You're My Only Hope",,"Event","R",,false,3,"Heroism",,,,"Gambit",,,"Look at the top card of your deck. You may play it. It costs {5:gold} less. If your base has [5] or less remaining HP, you may play it for free instead.",false,,"Gretel Lusky","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/246.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://starwarsunlimited.com/articles/star-wars-unlimited-first-look"
-"SOR","247",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","248",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","249",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","250",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","251",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","252",,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","T01","Experience",,"Token Upgrade","C",,,0,,,1,1,"Learned",,,,false,,"Mona Finden","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/T01.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/GW2YF6TBHbo?t=794"
-"SOR","T02","Shield",,"Token Upgrade","C",,,0,,,0,0,"Armor",,,"If damage would be dealt to attached unit, prevent that damage. If you do, defeat a Shield token on it.",false,,"Francois Cannels","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/T02.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/GW2YF6TBHbo?t=784"
+"Set","#","Card Name","Title","Type","Rarity","Arena","Unique","Cost","Aspect1","Aspect2","Power","HP","Trait1","Trait2","Trait3","Trait4","Front Text","DoubleSided","Back Text","Artist","Image Url Front","Epic Action Text","Image Url back","Front Landscape","Back Landscape","Spoiler Source Url"
+"SOR","1","Director Krennic","Aspiring to Authority","Leader","C","Ground",true,5,"Vigilance","Villainy",2,7,"Imperial","Official",,,"Each friendly damaged unit gets +1/+0. Epic Action: If you control 5 or more resources, deploy this leader.",true,"Restore 2 (When this unit attacks, heal 2 damage from your base.). Each friendly damaged unit gets +1/+0.","Ario Murti","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/001.png","If you control 5 or more resources, deploy this leader.","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/001-b.png",true,,"https://twitter.com/UnlimitedFFG/status/1677331851038322690"
+"SOR","2",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","3","Chewbacca","Walking Carpet","Leader","C","Ground",true,7,"Vigilance","Heroism",2,9,"Underworld","Wookie",,,"Action [E]: Play a unit that costs 2 or less from you hand (paying its cost). It gains Sentinel for this phase.  Epic Action: If you control 7 or more resources, deploy this leader.",true,"Sentinel (Units in this arena can't attack you non-Sentinel units or your base.). Grit (This unit gets +1/+0 for each damage on it.)","Eslam Aboshady","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/003.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/003-b.png",true,,"https://www.youtube.com/watch?v=HgjQ-bMGkj4"
+"SOR","4",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","5","Luke Skywalker","Faithful Friend","Leader","S","Ground",true,6,"Vigilance","Heroism",4,7,"Force","Rebel",,,"Action [1{G}, T]: Give a shield token to a {heroism} unit you played this phase. Epic Action: If you control 6 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.",true,"On Attack: You may give another unit a Shield Token","Borja Pindado","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/005.png","If you control 6 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/005-b.png",true,,"https://starwarsunlimited.com/articles/star-wars-unlimited-first-look"
+"SOR","6",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","7",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","8",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","9","Leia Organa","Alliance General","Leader","C","Ground",true,5,"Command","Heroism",3,6,"Rebel","Official",,,"Action [T]: Attack with a REBEL unit. Then, you may attack with another REBEL unit. Epic Action: If you contorl 5 or more resources, deploy this leader.",true,"Raid 1. When this unit completes an attack: You may attack with another REBEL unit","Sandra Chilewinska","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/009.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/009-b.png",true,,"https://twitter.com/UnlimitedFFG/status/1667184970727583744"
+"SOR","10","Darth Vader","Dark Lord of the Sith","Leader","S","Ground",true,7,"Aggression","Villainy",5,8,"Force","Imperial","Sith",,"Action [1{G}, T]: If you played a {villainy} card this phase, deal 1 damage to a unit and 1 damage to a base. Epic Action: If you control 7 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.",true,"On Attack: You may deal 2 damage to a unit. ","Borja Pindado","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/010.png","If you control 7 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/010-b.png",true,,"https://starwarsunlimited.com/articles/star-wars-unlimited-first-look"
+"SOR","11",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","12",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","13",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","14",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","15",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","16",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","17",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","18",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","19",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","20",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","21","Dagobah Swamp","Dagobah","Base","C",,,,"Vigilance",,,30,,,,,,,,"Tyler Edlin","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/021.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",true,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1197"
+"SOR","22",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","23","Command Center","Death Star","Base","C",,,,"Command",,,30,,,,,,,,"Stephen Zavala","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/023.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",true,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1230"
+"SOR","24",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","25",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","26","Catacombs of Cadera","Jedha","Base","C",,,,"Aggression",,,30,,,,,,,,"Tyler Edlin","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/026.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",true,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1969"
+"SOR","27",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","28",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","29","Administrator's Tower","Cloud City","Base","C",,,,"Cunning",,,30,,,,,,,,"Tyler Edlin","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/029.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",true,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1230"
+"SOR","30",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","31",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","32",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","33",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","34",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","35",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","36",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","37",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","38",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","39",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","40",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","41",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","42",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","43",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","44","Restored ARC-170",,"Unit","C","Space",false,2,"Vigilance","Heroism",2,3,"Rebel","Vehicle","Fighter",,"Restore 1 (When this unit attacks, heal 2 damage from your base.) When Defeated: Choose any number of players. They each draw a card.",false,,"Arthur Mougne","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/044.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/Q_n9IbiXe6c?t=29"
+"SOR","45","Yoda","Old Master","Unit","U","Ground",true,3,"Vigilance","Heroism",2,4,"Force","Jedi",,,"Restore 2 (When this unit attacks, heal 2 damage from your base.) When Defeated: Choose any number of players. They each draw a card.",false,,"Alexanria Huntington","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/045.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1249"
+"SOR","46","Consular Security Force",,"Unit","C","Ground",false,4,"Vigilance","Heroism",3,7,"Rebel","Trooper",,,,,,"Rebecca Farrow","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/046.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://images-cdn.fantasyflightgames.com/filer_public/03/d6/03d6d3ef-09d8-46f2-b9bf-948e57b697ca/sw_unlimited_quickstart_rules.pdf"
+"SOR","47",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","48","Vigilant Honor Guards",,"Unit","C","Ground",,5,"Vigilance","Heroism",4,6,"Rebel",,,,"While this unit is undamaged, it gains Sentinel. (Units in this arean can't attack your non-Sentinel units or your base.)",,,"Amad Mir","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/048.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtube.com/shorts/vnenhAMgyM4"
+"SOR","49",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","50",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","51",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","52",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","53",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","54",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","55",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","56",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","57",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","58",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","59","2-1B Surgical Droid",,"Unit","C","Ground",,1,"Vigilance",,1,3,"Droid",,,,"On Attack: You may heal 2 damage fro another unit.",,,"Hoan Nguyen","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/059.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=bUFS3Zd61MA"
+"SOR","60",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","61",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","62",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","63","Cloud City Wing Guard",,"Unit","C","Ground",false,3,"Vigilance",,2,4,"Fringe","Trooper",,,"Sentinel (Units in this arena can't attack your non-sentinel Units or your base)",false,,"Tomas Oleksak","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/063.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/ZDKza3yNX9w?t=92"
+"SOR","64",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","65",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","66","System Patrol Craft",,"Unit","C","pace",,4,"Vigilance",,3,4,"Vehicle","Fighter",,,"Sentinet (Units in this arean can't attack you non-Sentinel units or your base.)",,,"Christian Papazoglakis","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/066.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=HgjQ-bMGkj4"
+"SOR","67",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","68",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","69",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","70",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","71",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","72",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","73",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","74","Repair",,"Event","C",,false,1,"Vigilance",,,,"Supply",,,,"Heal 3 damage from a unit of base.",false,,"Joshua Carson","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/074.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=tIVvKt--lPc&t=6s"
+"SOR","75",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","76",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","77",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","78","Vanquish",,"Event","C",,,5,"Vigilance",,,,"Tactic",,,,"Defeat a non-leader unit.",,,"Eslam Aboshady","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/078.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1506"
+"SOR","79",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","80",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","81",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","82","Emperor's Royal Guard",,"Unit","R","Ground",false,3,"Command","Villainy",3,4,"Imperial",,,,"While you control an Official unit, this unit gains Sentinel. While you control Emperor Palpatine (as a leader or unit), this unit gets +0/+1.",false,,"French Carlomagno","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/082.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",false,,"https://www.youtube.com/watch?v=6cWmjXCAFKg"
+"SOR","83","Superlaser Technician",,"Unit","C","Ground",false,3,"Command","Villainy",2,1,"Imperial",,,,"When Defeated: You may put this unit into play as a resource and ready it.",false,,"Denis Merdi","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/083.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",false,,"https://youtu.be/v2anF9BpUsA?t=2260"
+"SOR","84","Grand Moff Tarkin","Death Star Overseer","Unit","S","Ground",true,4,"Command","Villainy",2,3,"Imperial","Official",,,"When Played: Search the top 5 cards of your deck for up to 2 IMPERIAL cards, reveal them, and draw them. (Put the other cards on the bottom of your deck in a random order.)",false,,"Steve Morris","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/084.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://starwarsunlimited.com/articles/star-wars-unlimited-first-look"
+"SOR","85",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","86",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","87",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","88",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","89",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","90",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","91",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","92",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","93",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","94",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","95",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","96",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","97",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","98",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","99",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","100",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","101",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","102",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","103",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","104",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","105",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","106",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","107",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","108",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","109",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","110",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","111",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","112",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","113",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","114",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","115",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","116",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","117",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","118",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","119",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","120",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","121",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","122",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","123",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","124",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","125",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","126",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","127",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","128","Death Star Stormtrooper",,"Unit","C","Ground",false,1,"Aggression","Villainy",3,1,"Imperial","Trooper",,,,false,,"Ario Murti","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/128.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://images-cdn.fantasyflightgames.com/filer_public/03/d6/03d6d3ef-09d8-46f2-b9bf-948e57b697ca/sw_unlimited_quickstart_rules.pdf"
+"SOR","129",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","130","First Legion Snowtrooper",,"Unit","C","Ground",,2,"Aggression","Villainy",2,3,"Imperial","Trooper",,,"While attacking a damaged unit, this unit gains +2/+0 and gains Overwhelm. (Deal excess damage to the opponent's base.)",,,"Milos Slackovic","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/130.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://starwarsunlimited.com/articles/a-taste-of-unlimited-possibilities"
+"SOR","131",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","132","Imperial Interceptor",,"Unit","C","Space",false,4,"Aggression","Villainy",3,2,"Imperial","Vehicle","Fighter",,"When Played: You may deal 3 damage to a space unit.",false,,"Francois Cannels","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/132.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=OLrH6RkqNp4&ab_channel=SAGA%3ASpaceArenaGroundArena"
+"SOR","133",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","134",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","135","Emporer Palpatine","Master of the Dark Side","Unit","Rare","Ground",true,8,"Aggressopm","Villainy",6,6,"Force","Imperial","Sith","Official","Overwhelm (When attacking an enemy unit, deal excess damage to the opponent's base.)  When Played: Deal 6 damage divided as you choose among enemy units.",false,,"Didier Nguyen","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/136.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://twitter.com/UnlimitedFFG/status/1688565795205304320"
+"SOR","136","Vader's Lightsaber",,"Upgrade","S",,true,2,"Aggression","Villainy",3,1,"Item","Weapon","Lightsaber",,"Attach to a non-Vehicle unit. When Played: If attached unit is Darth Vader, you may deal 4 damage to a ground unit.",,,"Arthur Mougne","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/136.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1401"
+"SOR","137",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","138",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","139","Force Choke",,"Event","U",,,2,"Aggression","Villainy",,,"Force",,,,"If you control a FORCE unit, this event costs [1R] less to play.  Deal 5 damage to a non-VEHICLE unit.  That unit's controller draws a card.",,,"Stefano Landini","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/139.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=Msezhwc2WE4"
+"SOR","140",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","141",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","142",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","143",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","144",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","145",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","146",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","147",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","148",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","149",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","150",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","151",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","152",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","153",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","154",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","155",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","156",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","157",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","158",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","159",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","160",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","161",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","162",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","163",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","164",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","165",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","166",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","167",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","168",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","169",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","170",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","171",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","172","Open Fire",,"Event","C",,,3,"Aggression",,,,"Tactic",,,,"Deal 4 damage to a unit.",false,,"Fernando Correa","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/172.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/IcqTW-7nAh8?t=142"
+"SOR","173",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","174",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","175",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","176",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","177",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","178",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","179",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","180",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","181",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","182",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","183",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","184",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","185",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","186",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","187",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","188",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","189","Leia Organa","Defiant Princess","Unit","S","Ground",true,2,"Cunning","Heroism",2,2,"Rebel","Official",,,"When Played: Either ready a resource or exhaust a unit",false,,"Robynn Frauhn","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/189.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/0mscZBVRiX0?t=34"
+"SOR","190",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","191",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","192",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","193",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","194",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","195","Auzituck Liberator Gunship",,"Unit","C","Space",false,4,"Cunning","Heroism",3,4,"Vehicle","Fighter",,,"Ambush (After you play this unit, it may ready and attack an enemy unit.)",false,,"Mark Zhang","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/195.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/TO7ae1EX5hg"
+"SOR","196","Chewbacca","Loyal Companion","Unit","U","Ground",true,5,"Cunning","Heroism",3,6,"Underworld","Wookie",,,"Sentinel (Units in this arena can't attack you non-Sentinel units or your base.) When this unit is attacked: Ready him.",,,"Luke Harrington","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/196.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=bUFS3Zd61MA"
+"SOR","197",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","198","Han Solo","Reluctant Hero","Unit","R","Ground",true,7,"Cunning","Heroism",6,6,"Underworld",,,,"Ambush (After you play this unit, he may ready and attack an enemy unit.) While attacking, this unit deals combat damage before the defender.",,,"Borja Pindado","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/198.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.gamesradar.com/exclusive-look-at-han-solos-card-in-star-wars-unlimited/"
+"SOR","199",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","200",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","201",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","202",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","203",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","204",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","205",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","206",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","207",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","208",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","209",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","210",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","211",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","212",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","213",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","214",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","215",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","216",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","217",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","218",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","219",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","220","Suprise Strike",,"Event","C",,,2,"Cunning",,,,"Tactic",,,,"Attack with a unit. It gets +3/+0 for this attack. ",false,,"Ario Murti","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/220.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/LiF62cBi_pk?t=24"
+"SOR","221",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","222","Waylay",,"Event","C",,,3,"Cunning",,,,"Trick",,,,"Return a non-leader unit to its owner's hand.",,,"Amelie Hutt","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/222.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://starwarsunlimited.com/articles/a-taste-of-unlimited-possibilities"
+"SOR","223",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","224",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","225","Tie/ln Fighter",,"Unit","C","Space",false,1,"Villainy",,2,1,"Imperial","Vehicle","Fighter",,,,,"French Carlomagno","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/225.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1249"
+"SOR","226","Admiral Motti","Brazen and Scornful","Unit","S","Ground",true,2,"Villainy",,1,1,"Imperial","Official",,,"When Defeated: You may ready a [Vil] unit.",,,"Tomas Oleksak","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/226.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=Msezhwc2WE4"
+"SOR","227","Snowtrooper Lieutenant",,"Unit","C","Ground",false,2,"Villainy",,2,2,"Imperial","Trooper",,,"When Played: You may attack with a unit. If it's an imperial unit, it gets +2/+0 for this attack.",false,,"Erik Ly","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/227.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/SW65sZFFjC8?t=204"
+"SOR","228","Viper Probe Droid",,"Unit","C","Ground",false,2,"Villainy",,3,2,"Imperial","Droid",,,"When Played: Look at an opponent’s hand.",false,,"Amad Mir","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/228.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/ZDKza3yNX9w?t=362"
+"SOR","229","Cell Block Guard",,"Unit","C","Ground",false,3,"Villainy",,3,3,"Imperial","Trooper",,,"Sentinel",,,"French Carlomagno","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/229.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1249"
+"SOR","230",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","231","TIE Advanced",,"Unit","U","Space",,4,"Villainy",,3,2,"Imperial","Vehicle","Fighter",,"When Played: Give 2 Experience tokens to another friendly IMPERIAL unit.",,,"Eslam Aboshady","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/231.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=HgjQ-bMGkj4"
+"SOR","232","AT-ST",,"Unit","C","Ground",,6,"Villainy",,6,7,"Imperial","Vehicle","Walker",,"Overwhelm (When attacking an enemy unit, deal excess damage to opponent's base.)",,,"Stephen Zavala","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/232.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=bUFS3Zd61MA"
+"SOR","233","I Am Your Father",,"Event","S",,false,3,"Villainy",,,,"Gambit",,,,"Deal 7 damage to an enemy unit unless its controller say ""no"".  If they do, draw 3 cards.",false,,"Stefano Landini","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/233.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://twitter.com/UnlimitedFFG/status/1670446401581350920?s=20"
+"SOR","234","Maximum Firepower",,"Event","C",,false,4,"Villainy",,,,"Imperial","Tactic",,,"A friendly IMPERIAL unit deals damage equal to its power to a unit. Then, another friendly IMPERIAL unit deals damage equal to its power to the same unit.",false,,"Stephen Zavala","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/234.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/0mscZBVRiX0?t=36"
+"SOR","235","Galatic Ambition",,"Event","R",,,7,"Villainy",,,,"Innate",,,,"Play a non-WHT unit from your hand for free. Deal damage to your base equal to its cost.",false,,"andre mealha","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/235.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://starwarsunlimited.com/articles/heroism-and-villainy"
+"SOR","236","R2-D2","Ignoring Protocol","Unit","S","Ground",true,1,"Heroism",,1,4,"Rebel","Droid",,,"When Played/On Attack: Look at the top card of your deck.  You may put it on the bottom of your deck. (Otherwise, leave it on top of your deck.)",,,"Aitor Prieto","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/236.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=Msezhwc2WE4"
+"SOR","237","Alliance X-Wing",,"Unit","C","Space",,2,"Heroism",,2,3,"Rebel","Vehicle","Fighter",,,,,"Francois Cannels","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/237.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/live/SunSj70YP8o?feature=share&t=1249"
+"SOR","238","C-3PO","Protocol Droid","Unit","S","Ground",true,2,"Heroism",,1,4,"Rebel","Droid",,,"When Played/On Attack: Choose a number, then look at the top card of your deck.  If its cost is the chosen number, you may reveal and draw it. (Otherwise, leave it on top of your deck.)",,,"Ash Pierce","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/238.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=Msezhwc2WE4"
+"SOR","239","Rebel Pathfinder",,"Unit","C","Ground",false,2,"Heroism",,2,3,"Rebel","Trooper",,,"Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)",false,,"Joshua Carson","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/239.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://wrecknrule.com/2023/07/19/star-wars-unlimited-card-reveal-rebel-pathfinder/"
+"SOR","240","Fleet Lieutenant",,"Unit","C","Ground",false,3,"Heroism",,3,3,"Rebel","Trooper",,,"When Played: You may attack with a unit. If it's a rebel unit, it gets +2/+0 for this attack.",,,"Hoan Ngyuen","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/240.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://starwarsunlimited.com/articles/heroism-and-villainy"
+"SOR","241","Wing Leader",,"Unit","U","Space",false,3,"Heroism",,2,1,"Rebel","Vehicle","Fighter",,"When Played: Give 2 Experience Tokens to another friendly REBEL unit",false,,"French Carlomagno","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/241.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://starwarsunlimited.com/articles/star-wars-unlimited-first-look"
+"SOR","242",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","243",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","244","Snowspeeder",,"Unit","C","Ground",,5,"Heroism",,3,6,"Rebel","Vehicle","Speeder",,"Ambush (After you play this unit, it may ready and attack an enemy unit.) On Attack: Exhaust an enemy VEHICLE ground unit.",,,"Fernando Correa","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/244.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=bUFS3Zd61MA"
+"SOR","245",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","246","You're My Only Hope",,"Event","R",,false,3,"Heroism",,,,"Gambit",,,,"Look at the top card of your deck. You may play it. It costs {5:gold} less. If your base has [5] or less remaining HP, you may play it for free instead.",false,,"Gretel Lusky","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/246.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://starwarsunlimited.com/articles/star-wars-unlimited-first-look"
+"SOR","247",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","248",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","249",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","250",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","251",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","252",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","T01","Experience",,"Token Upgrade","C",,,0,,,1,1,"Learned",,,,,false,,"Mona Finden","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/T01.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/GW2YF6TBHbo?t=794"
+"SOR","T02","Shield",,"Token Upgrade","C",,,0,,,0,0,"Armor",,,,"If damage would be dealt to attached unit, prevent that damage. If you do, defeat a Shield token on it.",false,,"Francois Cannels","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/T02.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtu.be/GW2YF6TBHbo?t=784"
