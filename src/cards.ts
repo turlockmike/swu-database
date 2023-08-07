@@ -15,7 +15,7 @@ export type JSONCard = {
   "Trait1": string | null,
   "Trait2": string | null,
   "Trait3": string | null,
-  "Trait4": string | null,
+  "Trait4"?: string | null ,
   "Front Text": string | null,
   "DoubleSided": boolean | null,
   "Back Text": string | null,
