@@ -1,6 +1,6 @@
 {
   "name": "swu-database",
-  "version": "1.0.14",
+  "version": "1.1.0",
   "description": "Star Wars: Unlimited Database",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
