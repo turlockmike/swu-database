@@ -3761,7 +3761,7 @@
     <Arena>Ground</Arena>
     <Unique>true</Unique>
     <Cost>8</Cost>
-    <Aspect1>Aggressopm</Aspect1>
+    <Aspect1>Aggression</Aspect1>
     <Aspect2>Villainy</Aspect2>
     <Power>6</Power>
     <HP>6</HP>
@@ -3773,7 +3773,7 @@
     <DoubleSided>false</DoubleSided>
     <Back Text/>
     <Artist>Didier Nguyen</Artist>
-    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/136.png</Image Url Front>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/135.png</Image Url Front>
     <Epic Action Text/>
     <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>

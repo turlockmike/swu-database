@@ -3537,7 +3537,7 @@
   Arena: Ground
   Unique: true
   Cost: 8
-  Aspect1: Aggressopm
+  Aspect1: Aggression
   Aspect2: Villainy
   Power: 6
   HP: 6
@@ -3552,7 +3552,7 @@
   DoubleSided: false
   Back Text: null
   Artist: Didier Nguyen
-  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/136.png
+  Image Url Front: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/135.png
   Epic Action Text: null
   Image Url back: https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg
   Front Landscape: null
