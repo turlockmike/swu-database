@@ -954,30 +954,30 @@
 <34>
     <Set>SOR</Set>
     <#>35</#>
-    <Card Name/>
-    <Title/>
-    <Type/>
-    <Rarity/>
-    <Arena/>
-    <Unique/>
-    <Cost/>
-    <Aspect1/>
-    <Aspect2/>
-    <Power/>
-    <HP/>
-    <Trait1/>
-    <Trait2/>
+    <Card Name>Lieutenant Childsen</Card Name>
+    <Title>Death Star Prison Warden</Title>
+    <Type>Unit</Type>
+    <Rarity>U</Rarity>
+    <Arena>Ground</Arena>
+    <Unique>true</Unique>
+    <Cost>4</Cost>
+    <Aspect1>Vigilance</Aspect1>
+    <Aspect2>Villainy</Aspect2>
+    <Power>2</Power>
+    <HP>2</HP>
+    <Trait1>Imperial</Trait1>
+    <Trait2>Official</Trait2>
     <Trait3/>
-    <Front Text/>
+    <Front Text>Sentinel (Units in this arena can't attack you non-Sentinel units or your base.) When Played: Reveal un to 4 [Vig] cards from your hand. For each card recvealed this way, give an Experience token to this unit.</Front Text>
     <DoubleSided/>
     <Back Text/>
-    <Artist/>
-    <Image Url Front/>
+    <Artist>Yvette Chua</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/035.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>
     <Back Landscape/>
-    <Spoiler Source Url/>
+    <Spoiler Source Url>https://starwarsunlimited.com/articles/vigilance</Spoiler Source Url>
 </34>
 <35>
     <Set>SOR</Set>
@@ -1346,30 +1346,30 @@
 <48>
     <Set>SOR</Set>
     <#>49</#>
-    <Card Name/>
-    <Title/>
-    <Type/>
-    <Rarity/>
-    <Arena/>
-    <Unique/>
-    <Cost/>
-    <Aspect1/>
-    <Aspect2/>
-    <Power/>
-    <HP/>
-    <Trait1/>
-    <Trait2/>
+    <Card Name>Obi-Wan Kenobi</Card Name>
+    <Title>Following Fate</Title>
+    <Type>Unit</Type>
+    <Rarity>R</Rarity>
+    <Arena>Ground</Arena>
+    <Unique>true</Unique>
+    <Cost>6</Cost>
+    <Aspect1>Vigilance</Aspect1>
+    <Aspect2>Heroism</Aspect2>
+    <Power>4</Power>
+    <HP>6</HP>
+    <Trait1>Force</Trait1>
+    <Trait2>Jedi</Trait2>
     <Trait3/>
-    <Front Text/>
+    <Front Text>Sentinel (Units in this arena can't attack you non-Sentinel units or your base.) When Defeated: Give 2 Experience tokens to another friendly unit. If it's a FORCE unit, draw a card.</Front Text>
     <DoubleSided/>
     <Back Text/>
-    <Artist/>
-    <Image Url Front/>
+    <Artist>Amelie Hutt</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/049.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>
     <Back Landscape/>
-    <Spoiler Source Url/>
+    <Spoiler Source Url>https://starwarsunlimited.com/articles/vigilance</Spoiler Source Url>
 </48>
 <49>
     <Set>SOR</Set>
@@ -1598,30 +1598,30 @@
 <57>
     <Set>SOR</Set>
     <#>58</#>
-    <Card Name/>
+    <Card Name>Vigilance</Card Name>
     <Title/>
-    <Type/>
-    <Rarity/>
+    <Type>Event</Type>
+    <Rarity>L</Rarity>
     <Arena/>
     <Unique/>
-    <Cost/>
-    <Aspect1/>
-    <Aspect2/>
+    <Cost>4</Cost>
+    <Aspect1>Vigilance</Aspect1>
+    <Aspect2>Vigilance</Aspect2>
     <Power/>
     <HP/>
-    <Trait1/>
+    <Trait1>Innate</Trait1>
     <Trait2/>
     <Trait3/>
-    <Front Text/>
+    <Front Text>Choose two, in any order: - Discard 6 cards from an opponent's deck. - Heal 5 damage from a base. - Defreat a unit with 3 or less remaining HP. - Give a Shield token to a unit.</Front Text>
     <DoubleSided/>
     <Back Text/>
-    <Artist/>
-    <Image Url Front/>
+    <Artist>Cristina Lavina</Artist>
+    <Image Url Front>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/058.png</Image Url Front>
     <Epic Action Text/>
-    <Image Url back/>
+    <Image Url back>https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg</Image Url back>
     <Front Landscape/>
     <Back Landscape/>
-    <Spoiler Source Url/>
+    <Spoiler Source Url>https://starwarsunlimited.com/articles/vigilance</Spoiler Source Url>
 </57>
 <58>
     <Set>SOR</Set>
