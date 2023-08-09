@@ -33,7 +33,7 @@
 "SOR","32",,,,,,,,,,,,,,,,,,,,,,,,,
 "SOR","33",,,,,,,,,,,,,,,,,,,,,,,,,
 "SOR","34",,,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","35",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","35","Lieutenant Childsen","Death Star Prison Warden","Unit","U","Ground",true,4,"Vigilance","Villainy",2,2,"Imperial","Official",,,"Sentinel (Units in this arena can't attack you non-Sentinel units or your base.) When Played: Reveal un to 4 [Vig] cards from your hand. For each card recvealed this way, give an Experience token to this unit.",,,"Yvette Chua","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/035.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://starwarsunlimited.com/articles/vigilance"
 "SOR","36",,,,,,,,,,,,,,,,,,,,,,,,,
 "SOR","37",,,,,,,,,,,,,,,,,,,,,,,,,
 "SOR","38",,,,,,,,,,,,,,,,,,,,,,,,,
@@ -47,7 +47,7 @@
 "SOR","46","Consular Security Force",,"Unit","C","Ground",false,4,"Vigilance","Heroism",3,7,"Rebel","Trooper",,,,,,"Rebecca Farrow","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/046.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://images-cdn.fantasyflightgames.com/filer_public/03/d6/03d6d3ef-09d8-46f2-b9bf-948e57b697ca/sw_unlimited_quickstart_rules.pdf"
 "SOR","47",,,,,,,,,,,,,,,,,,,,,,,,,
 "SOR","48","Vigilant Honor Guards",,"Unit","C","Ground",,5,"Vigilance","Heroism",4,6,"Rebel",,,,"While this unit is undamaged, it gains Sentinel. (Units in this arean can't attack your non-Sentinel units or your base.)",,,"Amad Mir","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/048.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://youtube.com/shorts/vnenhAMgyM4"
-"SOR","49",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","49","Obi-Wan Kenobi","Following Fate","Unit","R","Ground",true,6,"Vigilance","Heroism",4,6,"Force","Jedi",,,"Sentinel (Units in this arena can't attack you non-Sentinel units or your base.) When Defeated: Give 2 Experience tokens to another friendly unit. If it's a FORCE unit, draw a card.",,,"Amelie Hutt","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/049.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://starwarsunlimited.com/articles/vigilance"
 "SOR","50",,,,,,,,,,,,,,,,,,,,,,,,,
 "SOR","51",,,,,,,,,,,,,,,,,,,,,,,,,
 "SOR","52",,,,,,,,,,,,,,,,,,,,,,,,,
@@ -56,7 +56,7 @@
 "SOR","55",,,,,,,,,,,,,,,,,,,,,,,,,
 "SOR","56",,,,,,,,,,,,,,,,,,,,,,,,,
 "SOR","57",,,,,,,,,,,,,,,,,,,,,,,,,
-"SOR","58",,,,,,,,,,,,,,,,,,,,,,,,,
+"SOR","58","Vigilance",,"Event","L",,,4,"Vigilance","Vigilance",,,"Innate",,,,"Choose two, in any order: - Discard 6 cards from an opponent's deck. - Heal 5 damage from a base. - Defreat a unit with 3 or less remaining HP. - Give a Shield token to a unit.",,,"Cristina Lavina","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/058.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://starwarsunlimited.com/articles/vigilance"
 "SOR","59","2-1B Surgical Droid",,"Unit","C","Ground",,1,"Vigilance",,1,3,"Droid",,,,"On Attack: You may heal 2 damage fro another unit.",,,"Hoan Nguyen","https://d2fnabvvx1kdzc.cloudfront.net/images/sets/SOR/059.png",,"https://d2fnabvvx1kdzc.cloudfront.net/images/sets/shared/backside.jpg",,,"https://www.youtube.com/watch?v=bUFS3Zd61MA"
 "SOR","60",,,,,,,,,,,,,,,,,,,,,,,,,
 "SOR","61",,,,,,,,,,,,,,,,,,,,,,,,,
